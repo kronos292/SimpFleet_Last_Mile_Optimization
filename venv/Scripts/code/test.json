@@ -1,0 +1,5008 @@
+{
+  jobId: 'OJ19-121',
+  vesselIMOID: '9740665',
+  vesselName: 'MCC QINGDAO',
+  vesselCallsign: 'TCA4385',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-18T01:08:43.159Z,
+  psaBerthingDateTime: 2019-10-19T14:25:00.000Z,
+  psaUnberthingDateTime: 2019-10-20T00:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5da910f02fc1d85d1f54bcc1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-122',
+  vesselIMOID: '9705342',
+  vesselName: 'SBI HERCULES',
+  vesselCallsign: 'D5KQ3',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-18T22:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5da9d6892fc1d85d1f54bcca","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-123',
+  vesselIMOID: '9138159',
+  vesselName: 'ISEACO FORTUNE',
+  vesselCallsign: '3FRS7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-18T15:13:42.471Z,
+  psaBerthingDateTime: 2019-10-27T05:00:00.000Z,
+  psaUnberthingDateTime: 2019-10-28T05:00:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5da9d71f2fc1d85d1f54bcd3","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Blue Bins","_id":"5da9d71f2fc1d85d1f54bcd4","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-28T06:59:48.000Z,
+  psaQCEnd: 2019-12-29T10:39:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-124',
+  vesselIMOID: '9161716',
+  vesselName: 'VOYAGER OF THE SEAS',
+  vesselCallsign: 'C6SE5',
+  vesselLoadingLocation: 'Marina Bay Cruise Centre',
+  vesselLoadingDateTime: 2019-10-20T01:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dab13e82fc1d85d1f54bcdd","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-125',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-20T07:26:36.397Z,
+  psaBerthingDateTime: 2019-10-28T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-10-28T12:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dac0c642fc1d85d1f54bce7","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Blue Bins","_id":"5dac0c642fc1d85d1f54bce8","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-126',
+  vesselIMOID: '9503354',
+  vesselName: 'PACIFIC PANDA',
+  vesselCallsign: '9V7609',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-10-21T00:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dac0cef2fc1d85d1f54bcf1","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Blue Bins","_id":"5dac0cef2fc1d85d1f54bcf2","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-127',
+  vesselIMOID: '9749635',
+  vesselName: 'VOS CHAMPION',
+  vesselCallsign: '9V3690',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-10-21T03:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dac0d822fc1d85d1f54bcfb","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-128',
+  vesselIMOID: '9400825',
+  vesselName: 'CSCL HOUSTON',
+  vesselCallsign: '3ETA4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-20T07:32:25.740Z,
+  psaBerthingDateTime: 2019-11-03T15:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-04T15:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dac0dd52fc1d85d1f54bd04","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Blue Bins","_id":"5dac0dd52fc1d85d1f54bd05","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-21T12:59:06.000Z,
+  psaQCEnd: 2019-10-21T13:44:16.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-129',
+  vesselIMOID: '9239484',
+  vesselName: 'ASHKINI SPIRIT',
+  vesselCallsign: 'C6WJ9',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-20T22:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dac30b52fc1d85d1f54bd11","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-130',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-21T02:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dac3cfa2fc1d85d1f54bd1d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-131',
+  vesselIMOID: '9576935',
+  vesselName: 'CASTOR',
+  vesselCallsign: 'PB4189',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-26T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":10,"price":20,"uom":"Pallet","_id":"5dad23922fc1d85d1f54bd3c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-132',
+  vesselIMOID: '9793727',
+  vesselName: 'X PRESS KABRU',
+  vesselCallsign: '9V6143',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-21T03:50:33.177Z,
+  psaBerthingDateTime: 2019-10-21T05:30:00.000Z,
+  psaUnberthingDateTime: 2019-10-21T21:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Bundle","_id":"5dad2b842fc1d85d1f54bd45","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Wilhelmsen Ships Service (S) Pte Ltd'
+}
+{
+  jobId: 'OJ19-133',
+  vesselIMOID: '9793727',
+  vesselName: 'X PRESS KABRU',
+  vesselCallsign: '9V6143',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-21T03:53:08.006Z,
+  psaBerthingDateTime: 2019-10-21T05:30:00.000Z,
+  psaUnberthingDateTime: 2019-10-21T21:30:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dad2c832fc1d85d1f54bd4e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Wilhelmsen Ships Service (S) Pte Ltd'
+}
+{
+  jobId: 'OJ19-134',
+  vesselIMOID: '9254264',
+  vesselName: 'EPIC BOLIVAR',
+  vesselCallsign: 'S6EO4',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-21T09:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dad463fbb8e725f6842b860","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-135',
+  vesselIMOID: '9381328',
+  vesselName: 'ROYAL JASPER',
+  vesselCallsign: 'V7PR5',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-22T09:00:49.607Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dae6f62bb8e725f6842b86b","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-136',
+  vesselIMOID: '9717125',
+  vesselName: 'STI GOAL',
+  vesselCallsign: 'V7HH8',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-22T10:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dae8b1abb8e725f6842b875","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-137',
+  vesselIMOID: '9668893',
+  vesselName: 'MAJULAH HARBOURFRONT',
+  vesselCallsign: '9V6485',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-22T11:00:32.529Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5daeb0cdbb8e725f6842b87e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-138',
+  vesselIMOID: '9528574',
+  vesselName: 'MARCO',
+  vesselCallsign: 'A8PX9',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-23T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5daec980bb8e725f6842b887","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-139',
+  vesselIMOID: '9372810',
+  vesselName: 'POLARIS LEADER',
+  vesselCallsign: '9VHC5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-23T03:30:00.000Z,
+  psaBerthingDateTime: 2019-11-18T22:45:00.000Z,
+  psaUnberthingDateTime: 2019-11-19T15:15:00.000Z,
+  jobItems: [{"quantity":8,"price":20,"uom":"Pallet","_id":"5daef67967129d4c698f7219","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-140',
+  vesselIMOID: '9622942',
+  vesselName: 'SILVIA GLORY',
+  vesselCallsign: 'VRJZ4',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-24T04:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db004d767129d4c698f7223","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-141',
+  vesselIMOID: '9352872',
+  vesselName: 'LUKIANOS',
+  vesselCallsign: '3ECV9',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-23T10:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db007dd67129d4c698f722c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-142',
+  vesselIMOID: '9508158',
+  vesselName: 'PACIFIC SAPPHIRE',
+  vesselCallsign: 'VRER4',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-24T04:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db062bf67129d4c698f7238","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-143',
+  vesselIMOID: '9352872',
+  vesselName: 'LUKIANOS',
+  vesselCallsign: '3ECV9',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-24T02:00:55.503Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [],
+  jobOfflandItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db0e4c2a65d4e1b2a756a26","job":null,"__v":0}],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-144',
+  vesselIMOID: '9358436',
+  vesselName: 'BOMAR RENAISSANCE',
+  vesselCallsign: 'A8JU3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-24T11:00:03.549Z,
+  psaBerthingDateTime: 2019-10-25T10:05:00.000Z,
+  psaUnberthingDateTime: 2019-10-26T04:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db18517f0033e1a110ddaac","job":null,"__v":0}],
+  jobOfflandItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db18517f0033e1a110ddaad","job":null,"__v":0}],
+  pickupDetails: [],
+  psaQCStart: 2019-10-25T13:29:38.000Z,
+  psaQCEnd: 2019-10-25T13:59:52.000Z,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-145',
+  vesselIMOID: '9668879',
+  vesselName: 'ATROTOS HERACLES',
+  vesselCallsign: '3FFQ9',
+  vesselLoadingLocation: 'SG SHIPPING PTE LTD',
+  vesselLoadingDateTime: 2019-10-25T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db18988f0033e1a110ddab7","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-146',
+  vesselIMOID: '9572305',
+  vesselName: 'FUGRO EQUINOX',
+  vesselCallsign: '9MWZ4',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-10-25T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5db1a1b2f0033e1a110ddac2","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Blue Bins","_id":"5db1a1b2f0033e1a110ddac3","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-147',
+  vesselIMOID: '9392779',
+  vesselName: 'ATLANTIC POLARIS',
+  vesselCallsign: 'VRFA2',
+  vesselLoadingLocation: '19 LOYANG WAY S( 508724 )',
+  vesselLoadingDateTime: 2019-10-25T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db26ca1f0033e1a110ddacd","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-148',
+  vesselIMOID: '9330587',
+  vesselName: 'CHEMBULK SINGAPORE',
+  vesselCallsign: 'V7PR7',
+  vesselLoadingLocation: 'M.T.M. Ship Management  Pte. Ltd. 78 Shenton Way #13-01 Singapore 079120',
+  vesselLoadingDateTime: 2019-10-25T06:30:50.409Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db27b2cf0033e1a110ddad7","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-149',
+  vesselIMOID: '9352872',
+  vesselName: 'LUKIANOS',
+  vesselCallsign: '3ECV9',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-25T20:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":20,"uom":"Carton","_id":"5db3010ef0033e1a110ddae1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-150',
+  vesselIMOID: '9783318',
+  vesselName: 'FOMENTO THREE',
+  vesselCallsign: '9V5755',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-26T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db30775f0033e1a110ddaea","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-151',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'EBONY SHIP MANAGMENT, NO 8 JALAN KILANG TIMUR #01-03 KEWALRAM HOUSE SINGAPORE 159305',
+  vesselLoadingDateTime: 2019-10-26T03:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db318a9f0033e1a110ddaf3","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-152',
+  vesselIMOID: '9525900',
+  vesselName: 'MALIK AL ASHTAR',
+  vesselCallsign: '9HA2983',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-25T18:03:16.632Z,
+  psaBerthingDateTime: 2019-12-20T05:45:00.000Z,
+  psaUnberthingDateTime: 2019-12-21T04:45:00.000Z,
+  jobItems: [{"quantity":7,"price":20,"uom":"Pallet","_id":"5db3393af0033e1a110ddafe","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Blue Bins","_id":"5db3393af0033e1a110ddaff","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-04T23:40:10.000Z,
+  psaQCEnd: 2019-11-04T23:57:36.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-153',
+  vesselIMOID: '9160401',
+  vesselName: 'LADY OF LUCK',
+  vesselCallsign: '3EYW5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-25T18:05:25.516Z,
+  psaBerthingDateTime: 2019-11-27T17:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T11:30:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5db339b1f0033e1a110ddb08","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-25T20:31:57.000Z,
+  psaQCEnd: 2019-11-25T22:22:33.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-154',
+  vesselIMOID: '9731248',
+  vesselName: 'GENAVA',
+  vesselCallsign: 'HBLW',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-26T10:00:50.870Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5db3a3e0f0033e1a110ddb12","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-155',
+  vesselIMOID: '9367607',
+  vesselName: 'CANOPUS LEADER',
+  vesselCallsign: '9VHC4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-26T03:55:11.968Z,
+  psaBerthingDateTime: 2019-11-22T00:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-22T10:55:00.000Z,
+  jobItems: [{"quantity":9,"price":20,"uom":"Pallet","_id":"5db3c414f0033e1a110ddb1b","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-156',
+  vesselIMOID: '9367607',
+  vesselName: 'CANOPUS LEADER',
+  vesselCallsign: '9VHC4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-26T03:57:08.550Z,
+  psaBerthingDateTime: 2019-10-26T14:00:00.000Z,
+  psaUnberthingDateTime: 2019-10-27T12:00:00.000Z,
+  jobItems: [{"quantity":9,"price":20,"uom":"Pallet","_id":"5db3c490f0033e1a110ddb24","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-157',
+  vesselIMOID: '9473157',
+  vesselName: 'SAMOA',
+  vesselCallsign: '9HA2205',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-26T19:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":11,"price":20,"uom":"Pallet","_id":"5db3e07c7e20416ec681b41a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-10-26T17:00:00.000Z","_id":"5db3e07c7e20416ec681b418","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-158',
+  vesselIMOID: '9511430',
+  vesselName: 'ANNOU G.O.',
+  vesselCallsign: 'V7UI5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-26T20:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":10,"price":20,"uom":"Pallet","_id":"5db3e0f07e20416ec681b426","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-10-26T18:00:00.000Z","_id":"5db3e0f07e20416ec681b424","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-159',
+  vesselIMOID: '9601194',
+  vesselName: 'KING PHILIPPOS',
+  vesselCallsign: '9HA3023',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-27T11:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5db3e2347e20416ec681b44e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-10-27T09:00:00.000Z","_id":"5db3e2347e20416ec681b44c","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-160',
+  vesselIMOID: '9491680',
+  vesselName: 'LIBERTY ISLAND',
+  vesselCallsign: 'HPUY',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-26T22:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":10,"price":20,"uom":"Pallet","_id":"5db3e2977e20416ec681b458","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-10-26T22:00:00.000Z","_id":"5db3e2977e20416ec681b456","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-161',
+  vesselIMOID: '9398709',
+  vesselName: 'COLOSSUS',
+  vesselCallsign: '2COY6',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-27T19:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5db3e3397e20416ec681b462","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-10-27T17:00:00.000Z","_id":"5db3e3397e20416ec681b460","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-162',
+  vesselIMOID: '9330587',
+  vesselName: 'CHEMBULK SINGAPORE',
+  vesselCallsign: 'V7PR7',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-26T17:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db40f568c06440eb8731550","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-163',
+  vesselIMOID: '9081019',
+  vesselName: 'OEL MALAYSIA',
+  vesselCallsign: '3FSZ6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-27T02:12:47.278Z,
+  psaBerthingDateTime: 2019-12-03T04:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T18:00:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5db4fd638c06440eb8731559","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-18T17:34:00.000Z,
+  psaQCEnd: 2019-10-18T19:40:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-164',
+  vesselIMOID: '9400813',
+  vesselName: 'CSCL KINGSTON',
+  vesselCallsign: '3EQS9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-27T17:08:20.102Z,
+  psaBerthingDateTime: 2019-12-08T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-09T06:00:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5db5cf4afcd3eb29abe8b8fb","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-26T06:30:00.000Z,
+  psaQCEnd: 2019-11-27T05:56:48.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-165',
+  vesselIMOID: '9636436',
+  vesselName: 'AFRICAN STARLING',
+  vesselCallsign: 'C6BE4',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-28T08:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db67bbcfcd3eb29abe8b907","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-166',
+  vesselIMOID: '9718739',
+  vesselName: 'ARSINOE',
+  vesselCallsign: '5BBU5',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-28T08:00:21.024Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5db67c15fcd3eb29abe8b910","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-167',
+  vesselIMOID: '9505390',
+  vesselName: 'VITESSE',
+  vesselCallsign: '9MQB7',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-29T00:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db69ebafcd3eb29abe8b919","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-168',
+  vesselIMOID: '9416056',
+  vesselName: 'TRF MIAMI',
+  vesselCallsign: 'V7GV7',
+  vesselLoadingLocation: 'Scanjet Asia Pacific Pte Ltd No 3 Ang Mo Kio Street 62 01-45 Link@AMK 569139 Singapore',
+  vesselLoadingDateTime: 2019-10-30T03:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5db81789fcd3eb29abe8b924","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-10-30T02:30:00.000Z","_id":"5db81ae9fcd3eb29abe8b92b","pickupLocation":{"addressString":"Scanjet Asia Pacific Pte Ltd\nNo 3 Ang Mo Kio Street 62\n01-45 Li
+nk@AMK\n569139 Singapore","_id":"5db81ae9fcd3eb29abe8b92a","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-169',
+  vesselIMOID: '9142590',
+  vesselName: 'DEVON EXPRESS',
+  vesselCallsign: 'LXDB',
+  vesselLoadingLocation: 'ST Engineering Shipyard',
+  vesselLoadingDateTime: 2019-10-30T03:19:33.043Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":20,"uom":"Pallet","_id":"5db8e3d0684ad527732b05ea","job":null,"__v":0},{"quantity":4,"price":20,"uom":"Blue Bins","_id":"5db8e3d0684ad527732b05eb","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-170',
+  vesselIMOID: '9443516',
+  vesselName: 'PACIFIC VALOUR',
+  vesselCallsign: 'JZBK',
+  vesselLoadingLocation: 'ST Engineering Shipyard',
+  vesselLoadingDateTime: 2019-10-30T05:00:13.878Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5db8e451684ad527732b05f4","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-171',
+  vesselIMOID: '9398656',
+  vesselName: 'DIMITRIS A',
+  vesselCallsign: '5BJW2',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-30T15:59:53.046Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5db8fda9684ad527732b05ff","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-172',
+  vesselIMOID: '9774575',
+  vesselName: 'MTM NEWPORT',
+  vesselCallsign: '9V5429',
+  vesselLoadingLocation: 'SG SHIPPING PTE LTD Eco-Tech@Sunview 1 Sunview Road #05-09 Singapore 627615',
+  vesselLoadingDateTime: 2019-10-30T06:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db9032d684ad527732b0608","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'SG Shipping'
+}
+{
+  jobId: 'OJ19-173',
+  vesselIMOID: '9280108',
+  vesselName: 'MILOS',
+  vesselCallsign: '3FDJ5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-31T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db934fe684ad527732b0611","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-174',
+  vesselIMOID: '9119660',
+  vesselName: 'BLPL TRUST',
+  vesselCallsign: '3EPK4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-30T07:32:49.190Z,
+  psaBerthingDateTime: 2019-10-30T15:15:00.000Z,
+  psaUnberthingDateTime: 2019-10-30T23:30:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5db93d25684ad527732b061b","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-175',
+  vesselIMOID: '9629158',
+  vesselName: 'GREEN HORIZON',
+  vesselCallsign: '3EVD8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-30T07:35:09.152Z,
+  psaBerthingDateTime: 2019-11-26T04:45:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T17:15:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5db93e10684ad527732b0624","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-176',
+  vesselIMOID: '9322968',
+  vesselName: 'NS POWER',
+  vesselCallsign: 'A8IW6',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-10-31T10:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db942fa684ad527732b062f","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-177',
+  vesselIMOID: '9335812',
+  vesselName: 'AS SERENA',
+  vesselCallsign: 'CQAB4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-30T13:00:00.000Z,
+  psaBerthingDateTime: 2019-11-27T23:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T21:00:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db96a2d684ad527732b0639","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5db98aa7664d670ec362a7bb","job":"5db96a2d68
+4ad527732b0638","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-178',
+  vesselIMOID: '9322865',
+  vesselName: 'OEL PROGRESS',
+  vesselCallsign: '9V3924',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-31T01:00:00.000Z,
+  psaBerthingDateTime: 2019-12-04T12:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-05T14:00:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db99eea664d670ec362a7c0","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Carton","_id":"5db99eea664d670ec362a7c1","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-179',
+  vesselIMOID: '9720500',
+  vesselName: 'MSC SASHA',
+  vesselCallsign: 'CQYR',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-30T14:32:31.420Z,
+  psaBerthingDateTime: 2019-11-07T10:50:00.000Z,
+  psaUnberthingDateTime: 2019-11-08T10:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5db99fae664d670ec362a7ca","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-180',
+  vesselIMOID: '9665621',
+  vesselName: 'THALASSA ELPIDA',
+  vesselCallsign: '9V2231',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-30T14:37:13.563Z,
+  psaBerthingDateTime: 2019-10-31T07:20:00.000Z,
+  psaUnberthingDateTime: 2019-10-31T14:15:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5db9a077664d670ec362a7d5","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-181',
+  vesselIMOID: '9686754',
+  vesselName: 'STI SOHO',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-10-31T14:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbaa8e398e5147f905adb94","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-182',
+  vesselIMOID: '9525924',
+  vesselName: 'AL QIBLA',
+  vesselCallsign: '9HA3958',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-31T13:22:38.576Z,
+  psaBerthingDateTime: 2019-11-01T00:10:00.000Z,
+  psaUnberthingDateTime: 2019-11-02T02:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dbae09198e5147f905adb9d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-14T13:10:42.000Z,
+  psaQCEnd: 2019-12-14T14:06:00.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-183',
+  vesselIMOID: '9160401',
+  vesselName: 'LADY OF LUCK',
+  vesselCallsign: '3EYW5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-10-31T13:24:43.424Z,
+  psaBerthingDateTime: 2019-11-27T19:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T15:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dbae0d398e5147f905adba6","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dbae0d398e5147f905adba7","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-31T18:59:22.000Z,
+  psaQCEnd: 2019-10-31T21:35:28.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-184',
+  vesselIMOID: '9749635',
+  vesselName: 'VOS CHAMPION',
+  vesselCallsign: '9V3690',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-11-01T22:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dbc15d71fc6264d62a6ea4f","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-185',
+  vesselIMOID: '9723277',
+  vesselName: 'CROATIA',
+  vesselCallsign: '9HA3999',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-01T11:24:23.855Z,
+  psaBerthingDateTime: 2019-11-01T17:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-03T00:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dbc16741fc6264d62a6ea58","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dbc16741fc6264d62a6ea59","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-01T20:59:54.000Z,
+  psaQCEnd: 2019-11-02T12:53:48.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-186',
+  vesselIMOID: '9194505',
+  vesselName: 'TAICHUNG',
+  vesselCallsign: '3EHI',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-01T11:27:07.075Z,
+  psaBerthingDateTime: 2019-11-01T19:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-02T12:30:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dbc16ca1fc6264d62a6ea62","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-08T08:59:38.000Z,
+  psaQCEnd: 2019-12-08T11:42:08.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-187',
+  vesselIMOID: '9601936',
+  vesselName: 'DARYA GANGA',
+  vesselCallsign: 'VRJB8',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-11-03T06:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dbc260a1fc6264d62a6ea6c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-188',
+  vesselIMOID: '9291248',
+  vesselName: 'ATHINEA',
+  vesselCallsign: 'SVQG',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-03T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbcd7d61fc6264d62a6ea77","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-189',
+  vesselIMOID: '9507960',
+  vesselName: 'SASEBO ACE',
+  vesselCallsign: 'V7YH3',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-03T04:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5dbcfbea1fc6264d62a6ea84","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-03T02:00:00.000Z","_id":"5dbcfbea1fc6264d62a6ea82","pickupLocation":{"addressString":"ANCHOR MARINE WAREHOUSE","_id":"5dbcfbea1fc6264d62a6ea81","__v":0
+},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-190',
+  vesselIMOID: '9508483',
+  vesselName: 'BBC XINGANG',
+  vesselCallsign: 'V2GC3',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-11-04T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbcfc781fc6264d62a6ea8e","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Carton","_id":"5dbcfc781fc6264d62a6ea8f","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-04T01:00:00.000Z","_id":"5dbcfc781fc6264d62a6ea8c","pickupLocation":{"addressString":"ANCHOR MARINE WAREHOUSE","_id":"5dbcfbea1fc6264d62a6ea81","__v":0
+},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-191',
+  vesselIMOID: '9813802',
+  vesselName: 'B TRADER',
+  vesselCallsign: '9HA4917',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-02T05:59:30.487Z,
+  psaBerthingDateTime: 2019-11-02T20:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-03T01:25:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbd1b8c1fc6264d62a6ea98","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dbd1b8c1fc6264d62a6ea99","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-29T22:43:30.000Z,
+  psaQCEnd: 2019-10-29T23:06:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-192',
+  vesselIMOID: '9489168',
+  vesselName: 'RAVNI KOTARI',
+  vesselCallsign: 'C6BL5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-03T03:00:42.960Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbdb9ee1fc6264d62a6eaa6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-03T01:00:37.696Z","_id":"5dbdb9ee1fc6264d62a6eaa4","pickupLocation":{"addressString":"RMS Warehouse, 20 Tuas Avenue 6, Singapore 639307","_id":"5dbdb9e
+e1fc6264d62a6eaa3","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-193',
+  vesselIMOID: '9194490',
+  vesselName: 'IBN AL ABBAR',
+  vesselCallsign: '3FFC9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-02T17:20:35.064Z,
+  psaBerthingDateTime: 2019-11-03T13:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-04T08:00:00.000Z,
+  jobItems: [{"quantity":5,"price":20,"uom":"Pallet","_id":"5dbdbccb1fc6264d62a6eab0","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Blue Bins","_id":"5dbdbccb1fc6264d62a6eab1","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-194',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-03T15:59:54.839Z,
+  psaBerthingDateTime: 2019-12-02T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-02T12:00:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dbef9d11fc6264d62a6eabb","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-195',
+  vesselIMOID: '9082805',
+  vesselName: 'OEL DELTA',
+  vesselCallsign: '3EJM9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-03T16:01:36.320Z,
+  psaBerthingDateTime: 2019-11-23T16:20:00.000Z,
+  psaUnberthingDateTime: 2019-11-24T08:55:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dbefa6f1fc6264d62a6eac4","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dbefa6f1fc6264d62a6eac5","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-196',
+  vesselIMOID: '9601936',
+  vesselName: 'DARYA GANGA',
+  vesselCallsign: 'VRJB8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-03T16:09:26.609Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":6,"price":20,"uom":"Pallet","_id":"5dbefc011fc6264d62a6eace","job":null,"__v":0},{"quantity":4,"price":20,"uom":"Blue Bins","_id":"5dbefc011fc6264d62a6eacf","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-197',
+  vesselIMOID: '9278088',
+  vesselName: 'YM WEALTH',
+  vesselCallsign: 'A8EI4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-04T02:05:19.103Z,
+  psaBerthingDateTime: 2019-11-06T22:55:00.000Z,
+  psaUnberthingDateTime: 2019-11-07T18:30:00.000Z,
+  jobItems: [],
+  jobOfflandItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbf87dc1fc6264d62a6ead9","job":null,"__v":0}],
+  pickupDetails: [],
+  psaQCStart: 2019-11-24T00:17:40.000Z,
+  psaQCEnd: 2019-11-24T02:37:26.000Z,
+  userCompany: 'Wartsila Singapore'
+}
+{
+  jobId: 'OJ19-198',
+  vesselIMOID: '9161716',
+  vesselName: 'VOYAGER OF THE SEAS',
+  vesselCallsign: 'C6SE5',
+  vesselLoadingLocation: '71 ALPS AVENUE #01-03 (HELLMANN WORLDWIDE LOGISTIC)',
+  vesselLoadingDateTime: 2019-11-05T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dbfcbc21fc6264d62a6eae2","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dbfcbc21fc6264d62a6eae3","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-199',
+  vesselIMOID: '9254264',
+  vesselName: 'EPIC BOLIVAR',
+  vesselCallsign: 'S6EO4',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-05T09:00:58.700Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc0e84c1fc6264d62a6eaed","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-200',
+  vesselIMOID: '9419369',
+  vesselName: 'AMFITRITI',
+  vesselCallsign: 'A8SA2',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-05T12:00:52.730Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5dc0fc331fc6264d62a6eaf9","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-05T10:00:52.769Z","_id":"5dc10b8d1fc6264d62a6eb0b","pickupLocation":{"addressString":"AMS, 126 Gul Cir, Singapore 629594","_id":"5dc10b8d1fc6264d62a6eb
+0a","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-201',
+  vesselIMOID: '9802530',
+  vesselName: 'YUE YOU 906',
+  vesselCallsign: 'VRRP5',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-05T09:00:02.313Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":10,"price":20,"uom":"Pallet","_id":"5dc109141fc6264d62a6eb03","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Bundle","_id":"5dc109141fc6264d62a6eb04","job":null,"__v"
+:0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-202',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Marine & Offshore Integrated Logistics (S) Pte Ltd (MOIL), 53 Ubi Avenue 1, #01-49 Paya Ubi Industrial Park, Singapore 408934',
+  vesselLoadingDateTime: 2019-11-06T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":20,"uom":"Carton","_id":"5dc128bb1fc6264d62a6eb14","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-06T00:30:00.000Z","_id":"5dc128bb1fc6264d62a6eb12","pickupLocation":{"addressString":"Wartsila Shipping Department, \n11 Pandan Crescent, \nSingapore 1
+28467","_id":"5dc128bb1fc6264d62a6eb11","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Wartsila Singapore'
+}
+{
+  jobId: 'OJ19-203',
+  vesselIMOID: '9263344',
+  vesselName: 'MSC ASTRID',
+  vesselCallsign: '3ENJ5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-05T09:54:46.325Z,
+  psaBerthingDateTime: 2019-11-05T10:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-06T22:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc147491fc6264d62a6eb1e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-204',
+  vesselIMOID: '9122057',
+  vesselName: 'OEL HIND',
+  vesselCallsign: '3FSP3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-05T09:56:32.766Z,
+  psaBerthingDateTime: 2019-11-25T16:25:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T05:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc1479f1fc6264d62a6eb27","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-205',
+  vesselIMOID: '9525883',
+  vesselName: 'ALULA',
+  vesselCallsign: '9HA2952',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-06T01:20:14.717Z,
+  psaBerthingDateTime: 2019-11-05T16:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-06T13:25:00.000Z,
+  jobItems: [{"quantity":6,"price":20,"uom":"Pallet","_id":"5dc220291fc6264d62a6eb30","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-13T17:00:26.000Z,
+  psaQCEnd: 2019-12-13T19:49:50.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-206',
+  vesselIMOID: '9148659',
+  vesselName: 'STAR OF LUCK',
+  vesselCallsign: '3FAH3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-06T01:21:51.835Z,
+  psaBerthingDateTime: 2019-11-17T20:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-18T11:00:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc2206d1fc6264d62a6eb39","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-207',
+  vesselIMOID: '9161716',
+  vesselName: 'VOYAGER OF THE SEAS',
+  vesselCallsign: 'C6SE5',
+  vesselLoadingLocation: '71 Alps Avenue  # 01-03 (Airfreight)',
+  vesselLoadingDateTime: 2019-11-06T03:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc220f91fc6264d62a6eb42","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Bundle","_id":"5dc220f91fc6264d62a6eb43","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-208',
+  vesselIMOID: '9483267',
+  vesselName: 'VICTORIOUS',
+  vesselCallsign: 'A8XQ8',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-06T15:00:33.196Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5dc25ccb1fc6264d62a6eb4c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-209',
+  vesselIMOID: '9602825',
+  vesselName: 'GLORIA',
+  vesselCallsign: 'UBVH2',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-06T19:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc2d4691fc6264d62a6eb66","job":null,"__v":0},{"quantity":3,"price":20,"uom":"Bundle","_id":"5dc2d4691fc6264d62a6eb67","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-06T17:00:00.000Z","_id":"5dc395c01fc6264d62a6eb9c","pickupLocation":{"addressString":"AMS Warehouse - 126 Gul Circle","_id":"5dc2d4691fc6264d62a6eb63",
+"__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-210',
+  vesselIMOID: '9410791',
+  vesselName: 'CMA CGM GEMINI',
+  vesselCallsign: '9HA4974',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-06T14:36:59.483Z,
+  psaBerthingDateTime: 2019-11-07T12:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-08T11:00:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5dc2dad31fc6264d62a6eb70","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-211',
+  vesselIMOID: '9597769',
+  vesselName: 'FIORELA',
+  vesselCallsign: 'D5MK2',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-07T19:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":20,"uom":"Pallet","_id":"5dc37f9d1fc6264d62a6eb79","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dc37f9d1fc6264d62a6eb7a","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-212',
+  vesselIMOID: '9385611',
+  vesselName: 'CMA CGM QUARTZ',
+  vesselCallsign: 'D5CP4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-07T03:18:09.401Z,
+  psaBerthingDateTime: 2019-11-07T10:35:00.000Z,
+  psaUnberthingDateTime: 2019-11-07T22:00:00.000Z,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5dc38dab1fc6264d62a6eb94","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-07T07:30:50.311Z","_id":"5dc38dab1fc6264d62a6eb92","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-213',
+  vesselIMOID: '9752412',
+  vesselName: 'DARYA JAYA',
+  vesselCallsign: 'VRPV6',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-07T10:15:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":7,"price":20,"uom":"Pallet","_id":"5dc3d3281fc6264d62a6ebb1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-214',
+  vesselIMOID: '9399193',
+  vesselName: 'CMA CGM LIBRA',
+  vesselCallsign: '9HA2021',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-07T09:27:28.648Z,
+  psaBerthingDateTime: 2019-11-08T08:20:00.000Z,
+  psaUnberthingDateTime: 2019-11-09T15:00:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dc3e3b420962e0199d04a4d","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dc3e3b420962e0199d04a4e","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-215',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Tuas Megayard',
+  vesselLoadingDateTime: 2019-11-08T01:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc42ef920962e0199d04a57","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-216',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'C/O LIAU BROTHERS(160 KALLANG WAY UNIT #01-1200)',
+  vesselLoadingDateTime: 2019-11-08T02:00:17.969Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc4b94820962e0199d04a60","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-217',
+  vesselIMOID: '9148609',
+  vesselName: 'GAS SUCCESS',
+  vesselCallsign: '4RDX',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-08T21:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":20,"uom":"Pallet","_id":"5dc4f3dd20962e0199d04a74","job":null,"__v":0},{"quantity":3,"price":20,"uom":"Bundle","_id":"5dc4f3dd20962e0199d04a75","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-218',
+  vesselIMOID: '9619438',
+  vesselName: 'MSC ALBANY',
+  vesselCallsign: 'D5CC8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-08T04:50:20.560Z,
+  psaBerthingDateTime: 2019-11-10T15:10:00.000Z,
+  psaUnberthingDateTime: 2019-11-12T05:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc63b260194da0eb42c48c8","job":"5dc4f4c720962e0199d04a7d","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-219',
+  vesselIMOID: '9740665',
+  vesselName: 'MCC QINGDAO',
+  vesselCallsign: 'TCA4385',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-08T04:53:51.200Z,
+  psaBerthingDateTime: 2019-11-09T14:05:00.000Z,
+  psaUnberthingDateTime: 2019-11-10T11:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc4f51920962e0199d04a87","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Bundle","_id":"5dc4f51920962e0199d04a88","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-220',
+  vesselIMOID: '9407134',
+  vesselName: 'SEASPAN EMERALD',
+  vesselCallsign: 'VRFB8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-08T06:31:00.929Z,
+  psaBerthingDateTime: 2019-11-12T15:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-13T15:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc50ca720962e0199d04a95","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-08T10:00:46.043Z","_id":"5dc50ca720962e0199d04a93","pickupLocation":{"addressString":"11 Pandan Crescent, Singapore 128467\nShipping Office","_id":"5dc
+50ca720962e0199d04a92","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Wartsila Singapore'
+}
+{
+  jobId: 'OJ19-221',
+  vesselIMOID: '9582116',
+  vesselName: 'EPIPHANIA',
+  vesselCallsign: 'C6ZO7',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-08T21:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5dc515160194da0eb42c4790","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-222',
+  vesselIMOID: '9235608',
+  vesselName: 'CONTSHIP HUB',
+  vesselCallsign: 'D5LK7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-08T07:13:39.966Z,
+  psaBerthingDateTime: 2019-11-10T19:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-11T11:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dc5163d0194da0eb42c4799","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-223',
+  vesselIMOID: '9454448',
+  vesselName: 'CMA CGM ALEXANDER VON HUMBOLDT',
+  vesselCallsign: '9HA5017',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-08T11:08:57.027Z,
+  psaBerthingDateTime: 2019-11-17T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-17T21:35:00.000Z,
+  jobItems: [],
+  jobOfflandItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc54d5e0194da0eb42c4894","job":null,"__v":0}],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-224',
+  vesselIMOID: '9445007',
+  vesselName: 'MARINE BIA',
+  vesselCallsign: '3EPW6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-08T12:12:35.347Z,
+  psaBerthingDateTime: 2019-11-26T12:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T11:00:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc55bf50194da0eb42c489e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-225',
+  vesselIMOID: '9451276',
+  vesselName: 'NAVIOS MELODIA',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-09T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":20,"uom":"Pallet","_id":"5dc56fb00194da0eb42c48a8","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-09T00:00:00.000Z","_id":"5dc570f20194da0eb42c48ae","pickupLocation":{"addressString":"Anchor Marine Supplies, 126 Gul Circle","_id":"5dc56fb00194da0eb4
+2c48a5","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-226',
+  vesselIMOID: '9345829',
+  vesselName: 'SEA SPIRIT',
+  vesselCallsign: 'D5UB6',
+  vesselLoadingLocation: 'Kuehne  Nagel Pte Ltd 80 Alps Ave #02-07 Singapore 498792. CONTACT PERSON: Yvonne Tay  Mobile:  +9191 0388',
+  vesselLoadingDateTime: 2019-11-11T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dc637a80194da0eb42c48b6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-11T02:00:00.000Z","_id":"5dc637a80194da0eb42c48b4","pickupLocation":{"addressString":"126 gul circle, 629594\nAnchor Marine Supplies P/L.","_id":"5dc63
+7a80194da0eb42c48b3","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-227',
+  vesselIMOID: '9161716',
+  vesselName: 'VOYAGER OF THE SEAS',
+  vesselCallsign: 'C6SE5',
+  vesselLoadingLocation: 'Hellmann Worldwide Logistics LLP  71 Alps Avenue  # 01-03 (Air Freight Office / Warehouse)  Singapore 498745 Tel:  +65 6580 8000',
+  vesselLoadingDateTime: 2019-11-11T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dc638ec0194da0eb42c48c1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-11T02:00:00.000Z","_id":"5dc660d7ca471a11acdb44d4","pickupLocation":{"addressString":"126 gul circle, 629594\nAnchor Marine Supllies P/L","_id":"5dc638
+ec0194da0eb42c48be","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-228',
+  vesselIMOID: '9525857',
+  vesselName: 'UMM SALAL',
+  vesselCallsign: '9HA2682',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-09T07:48:56.682Z,
+  psaBerthingDateTime: 2019-11-09T12:25:00.000Z,
+  psaUnberthingDateTime: 2019-11-10T16:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dc670f2ca471a11acdb44d9","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Blue Bins","_id":"5dc670f2ca471a11acdb44da","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-12T11:32:34.000Z,
+  psaQCEnd: 2019-12-12T21:47:56.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-229',
+  vesselIMOID: '9525936',
+  vesselName: 'JEBEL ALI',
+  vesselCallsign: '9HA2984',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-09T07:56:19.837Z,
+  psaBerthingDateTime: 2019-11-09T21:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-11T00:00:00.000Z,
+  jobItems: [{"quantity":5,"price":20,"uom":"Pallet","_id":"5dc67286ca471a11acdb44e3","job":null,"__v":0},{"quantity":3,"price":20,"uom":"Blue Bins","_id":"5dc67286ca471a11acdb44e4","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-23T08:31:14.000Z,
+  psaQCEnd: 2019-12-23T09:01:28.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-230',
+  vesselIMOID: '9368895',
+  vesselName: 'HOEGH BRASILIA',
+  vesselCallsign: '3FHU3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-09T08:02:28.265Z,
+  psaBerthingDateTime: 2019-11-10T06:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-10T11:00:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc673acca471a11acdb44ed","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-231',
+  vesselIMOID: '9559884',
+  vesselName: 'BBC NORFOLK',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-10T05:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc680c0ca471a11acdb44f6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-232',
+  vesselIMOID: '9400813',
+  vesselName: 'CSCL KINGSTON',
+  vesselCallsign: '3EQS9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-10T16:40:04.245Z,
+  psaBerthingDateTime: 2019-11-11T00:50:00.000Z,
+  psaUnberthingDateTime: 2019-11-11T20:00:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc83da7ca471a11acdb4500","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-12T17:40:12.000Z,
+  psaQCEnd: 2019-12-13T12:59:51.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-233',
+  vesselIMOID: '9735206',
+  vesselName: 'MSC PALAK',
+  vesselCallsign: 'CQZL',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-10T16:41:22.249Z,
+  psaBerthingDateTime: 2019-11-11T08:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-12T21:30:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dc83e55ca471a11acdb450a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-234',
+  vesselIMOID: '9431680',
+  vesselName: 'NAVIOS LAPIS',
+  vesselCallsign: 'V7SG8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T00:57:35.036Z,
+  psaBerthingDateTime: 2019-11-10T23:35:00.000Z,
+  psaUnberthingDateTime: 2019-11-11T22:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5dc8b018ca471a11acdb4515","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-11T03:30:14.481Z","_id":"5dc8bdc4ca471a11acdb451c","pickupLocation":{"addressString":"126 Gul circle \nAMS","_id":"5dc8b018ca471a11acdb4512","__v":0},"
+__v":0}],
+  psaQCStart: 2019-12-09T09:32:00.000Z,
+  psaQCEnd: 2019-12-09T10:15:54.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-235',
+  vesselIMOID: '9262209',
+  vesselName: 'LNG AKWA IBOM',
+  vesselCallsign: 'ZCDL9',
+  vesselLoadingLocation: 'GAC Singapore Pte Ltd, 70 Alps Ave #03-02, Singapore 498801, Attn: Mr William Lee Tel: +65 64771400 | Dir: +65 64771767 |HP: 97316387',
+  vesselLoadingDateTime: 2019-11-11T07:00:50.991Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5dc8c740ca471a11acdb4523","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-11T05:00:12.270Z","_id":"5dc8c7b3ca471a11acdb4529","pickupLocation":{"addressString":"11 Pandan Crescent, Singapore 128467 (Shipping Office)","_id":"5d
+c8c740ca471a11acdb4520","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Wartsila Singapore'
+}
+{
+  jobId: 'OJ19-236',
+  vesselIMOID: '9674529',
+  vesselName: 'CMA CGM ELBE',
+  vesselCallsign: '9HA3731',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T04:46:49.801Z,
+  psaBerthingDateTime: 2019-11-22T07:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-23T06:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dc8eb59ca471a11acdb4538","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-237',
+  vesselIMOID: '9331000',
+  vesselName: 'CMA CGM SWORDFISH',
+  vesselCallsign: '9HA4988',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T05:03:01.059Z,
+  psaBerthingDateTime: 2019-11-26T23:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T08:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dc8eba8ca471a11acdb4541","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-238',
+  vesselIMOID: '9601314',
+  vesselName: 'APL DUBLIN',
+  vesselCallsign: '9V9404',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T05:04:29.053Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dc8ebedca471a11acdb454a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-239',
+  vesselIMOID: '9450600',
+  vesselName: 'CMA CGM FIGARO',
+  vesselCallsign: 'FNUS',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T05:04:58.079Z,
+  psaBerthingDateTime: 2019-11-30T04:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-30T21:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dc8ec0fca471a11acdb4553","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-240',
+  vesselIMOID: '9139505',
+  vesselName: 'MSC REBECCA',
+  vesselCallsign: 'HONW',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T10:05:06.721Z,
+  psaBerthingDateTime: 2019-11-11T23:45:00.000Z,
+  psaUnberthingDateTime: 2019-11-13T15:30:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dc9327eca471a11acdb455c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-241',
+  vesselIMOID: '9305879',
+  vesselName: 'MERATUS JAYAKARTA',
+  vesselCallsign: 'YBSM2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-11T10:06:47.583Z,
+  psaBerthingDateTime: 2019-11-11T18:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-12T10:15:00.000Z,
+  jobItems: [{"quantity":10,"price":20,"uom":"Pallet","_id":"5dc93306ca471a11acdb4565","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-242',
+  vesselIMOID: '9340037',
+  vesselName: 'PACIFIC RAPIER',
+  vesselCallsign: '9V5943',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-11-10T23:30:51.814Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dc93affca471a11acdb456e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-243',
+  vesselIMOID: '9392561',
+  vesselName: 'SONGA HAYDN',
+  vesselCallsign: 'A8UP2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-12T06:09:03.225Z,
+  psaBerthingDateTime: 2019-11-22T18:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-23T05:40:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5dca4cab57686548bd080206","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-31T02:39:16.000Z,
+  psaQCEnd: 2019-10-31T03:46:10.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-244',
+  vesselIMOID: '9619440',
+  vesselName: 'MSC ANCHORAGE',
+  vesselCallsign: 'D5CC9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-12T06:09:53.752Z,
+  psaBerthingDateTime: 2019-11-13T09:45:00.000Z,
+  psaUnberthingDateTime: 2019-11-14T16:00:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dca4cf657686548bd08020f","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-05T17:55:54.000Z,
+  psaQCEnd: 2019-11-05T20:22:48.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-245',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-12T06:11:18.977Z,
+  psaBerthingDateTime: 2019-11-26T18:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T02:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dca4db757686548bd080218","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-246',
+  vesselIMOID: '9484534',
+  vesselName: 'ROSA',
+  vesselCallsign: 'D5AY3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-12T11:23:31.258Z,
+  psaBerthingDateTime: 2019-11-12T22:40:00.000Z,
+  psaUnberthingDateTime: 2019-11-13T14:40:00.000Z,
+  jobItems: [{"quantity":5,"price":20,"uom":"Pallet","_id":"5dca96c257686548bd08026b","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-18T19:56:05.000Z,
+  psaQCEnd: 2019-12-18T20:42:17.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-247',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-12T11:26:45.837Z,
+  psaBerthingDateTime: 2019-11-26T18:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T02:30:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dca973957686548bd080274","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-248',
+  vesselIMOID: '9733105',
+  vesselName: 'GENTING DREAM',
+  vesselCallsign: 'C6BO5',
+  vesselLoadingLocation: 'Marina Bay Cruise Centre',
+  vesselLoadingDateTime: 2019-11-13T04:00:54.264Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dcb6494e91d007c62d3f1ad","job":null,"__v":0},{"quantity":6,"price":20,"uom":"Bundle","_id":"5dcb6494e91d007c62d3f1ae","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-249',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Commonwealth Freight Services Pte Ltd   28 Pioneer Crescent, Westpark Bizcentral  #04-13 Singapore 628559 Tel: +65 6776 6077 Fax: +65 6779 6731  Pic: Caroline / Ym Tan  /
+ Sk Loh',
+  vesselLoadingDateTime: 2019-11-13T07:00:32.056Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5dcb7817e91d007c62d3f1b8","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-13T05:00:05.097Z","_id":"5dcb7817e91d007c62d3f1b6","pickupLocation":{"addressString":"11 Pandan Crescent, Singapore 128467 (Shipping Office)","_id":"5d
+c8c740ca471a11acdb4520","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Wartsila Singapore'
+}
+{
+  jobId: 'OJ19-250',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Anju Mariam Thomas\n' +
+    'Mari-Nex FR8 Pte Ltd.\n' +
+    '33 Tanjong Penjuru\n' +
+    'Singapore 609029\n',
+  vesselLoadingDateTime: 2019-11-13T08:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dcba6cbe91d007c62d3f1c1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-251',
+  vesselIMOID: '9597549',
+  vesselName: 'APL MIAMI',
+  vesselCallsign: '9V9922',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-13T07:25:33.493Z,
+  psaBerthingDateTime: 2019-11-14T20:40:00.000Z,
+  psaUnberthingDateTime: 2019-11-15T19:10:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dcbb162e91d007c62d3f1ca","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-252',
+  vesselIMOID: '9595981',
+  vesselName: 'GULLWING',
+  vesselCallsign: '9HA3199',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-14T17:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":24,"price":20,"uom":"Pallet","_id":"5dcbb9d0e91d007c62d3f1d4","job":null,"__v":0},{"quantity":2,"price":20,"uom":"Bundle","_id":"5dcbb9d0e91d007c62d3f1d5","job":null,"__v"
+:0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-253',
+  vesselIMOID: '9706281',
+  vesselName: 'BOX ENDEAVOUR',
+  vesselCallsign: 'D5EW3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-13T13:42:35.932Z,
+  psaBerthingDateTime: 2019-11-13T23:45:00.000Z,
+  psaUnberthingDateTime: 2019-11-14T07:30:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dcc0883e91d007c62d3f1df","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-09T09:32:00.000Z,
+  psaQCEnd: 2019-12-09T10:15:54.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-254',
+  vesselIMOID: '9708863',
+  vesselName: 'AL MURAYKH',
+  vesselCallsign: '9HA3725',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-13T13:43:41.723Z,
+  psaBerthingDateTime: 2019-11-14T00:50:00.000Z,
+  psaUnberthingDateTime: 2019-11-14T21:35:00.000Z,
+  jobItems: [{"quantity":4,"price":20,"uom":"Pallet","_id":"5dcc08c1e91d007c62d3f1e8","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-23T08:31:14.000Z,
+  psaQCEnd: 2019-12-23T09:01:28.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-255',
+  vesselIMOID: '9572305',
+  vesselName: 'FUGRO EQUINOX',
+  vesselCallsign: '9MWZ4',
+  vesselLoadingLocation: 'Mencast Shipyard',
+  vesselLoadingDateTime: 2019-11-15T00:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":6,"price":20,"uom":"Pallet","_id":"5dcd7ddbe91d007c62d3f1f1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-256',
+  vesselIMOID: '9358591',
+  vesselName: 'FUGRO MARINER',
+  vesselCallsign: 'C6DS9',
+  vesselLoadingLocation: 'ASL Shipyard',
+  vesselLoadingDateTime: 2019-11-15T00:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":10,"price":20,"uom":"Pallet","_id":"5dcd7e6fe91d007c62d3f1fa","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-257',
+  vesselIMOID: '9414321',
+  vesselName: 'NEELAMBARI',
+  vesselCallsign: 'AUSX',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-15T02:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dcd7f19e91d007c62d3f203","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-258',
+  vesselIMOID: '9081019',
+  vesselName: 'OEL MALAYSIA',
+  vesselCallsign: '3FSZ6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-14T16:22:07.994Z,
+  psaBerthingDateTime: 2019-12-03T04:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T18:00:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dcd7f6ce91d007c62d3f20c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-259',
+  vesselIMOID: '9158525',
+  vesselName: 'PACIFIC VOYAGER',
+  vesselCallsign: 'V2AI7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-14T16:23:25.668Z,
+  psaBerthingDateTime: 2019-11-15T05:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-16T02:00:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dcd7fa7e91d007c62d3f215","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-260',
+  vesselIMOID: '9735737',
+  vesselName: 'COSRISING LAKE',
+  vesselCallsign: 'VRQK6',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-14T19:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":8,"price":20,"uom":"Pallet","_id":"5dce9276e91d007c62d3f21e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-261',
+  vesselIMOID: '9200677',
+  vesselName: 'CONTI CANBERRA',
+  vesselCallsign: 'D5SI8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-15T12:05:07.819Z,
+  psaBerthingDateTime: 2019-11-28T19:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-29T11:30:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Pallet","_id":"5dce94d3e91d007c62d3f227","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-04T14:55:27.000Z,
+  psaQCEnd: 2019-11-04T21:58:12.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-262',
+  vesselIMOID: '9704972',
+  vesselName: 'MSC ELODIE',
+  vesselCallsign: '3FNI8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-15T12:06:52.694Z,
+  psaBerthingDateTime: 2019-11-15T21:05:00.000Z,
+  psaUnberthingDateTime: 2019-11-16T16:20:00.000Z,
+  jobItems: [{"quantity":1,"price":20,"uom":"Carton","_id":"5dcf9ab4e91d007c62d3f274","job":"5dce9608e91d007c62d3f230","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T01:29:36.000Z,
+  psaQCEnd: 2019-11-27T16:36:23.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-263',
+  vesselIMOID: '9443516',
+  vesselName: 'PACIFIC VALOUR',
+  vesselCallsign: 'JZBK',
+  vesselLoadingLocation: 'ST Marine Shipyard',
+  vesselLoadingDateTime: 2019-11-16T06:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":8,"price":20,"uom":"Pallet","_id":"5dce96d6e91d007c62d3f23a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-264',
+  vesselIMOID: '9764972',
+  vesselName: 'GUDALI EXPRESS',
+  vesselCallsign: '9V3939',
+  vesselLoadingLocation: 'ST Marine Shipyard',
+  vesselLoadingDateTime: 2019-11-15T04:30:32.860Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":20,"uom":"Pallet","_id":"5dce9747e91d007c62d3f243","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-265',
+  vesselIMOID: '9266865',
+  vesselName: 'SEA HOLLY',
+  vesselCallsign: 'V7SK3',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-16T04:00:23.254Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":5,"price":20,"uom":"Pallet","_id":"5dcf4e30e91d007c62d3f256","job":null,"__v":0},{"quantity":1,"price":20,"uom":"Bundle","_id":"5dcf4e30e91d007c62d3f257","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-16T04:00:00.000Z","_id":"5dcf4e30e91d007c62d3f254","pickupLocation":{"addressString":"126 Gul circle\nAMS office","_id":"5dcf4e30e91d007c62d3f253","__v
+":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-266',
+  vesselIMOID: '9418444',
+  vesselName: 'KESARIA',
+  vesselCallsign: 'V7IA9',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-16T05:30:08.797Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dcf5ea8e91d007c62d3f262","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-16T04:30:31.438Z","_id":"5dcf5ea8e91d007c62d3f260","pickupLocation":{"addressString":"126 gul circle\nAMS office","_id":"5dcf5ea8e91d007c62d3f25f","__v
+":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-267',
+  vesselIMOID: '9454400',
+  vesselName: 'CMA CGM CORTE REAL',
+  vesselCallsign: '9HA4987',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-16T03:50:42.906Z,
+  psaBerthingDateTime: 2019-11-16T21:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-18T13:00:00.000Z,
+  jobItems: [],
+  jobOfflandItems: [{"quantity":24,"price":20,"uom":"Carton","_id":"5dcf72a3e91d007c62d3f26b","job":null,"__v":0}],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-268',
+  vesselIMOID: '9723241',
+  vesselName: 'CZECH',
+  vesselCallsign: '9HA4003',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-16T11:36:52.532Z,
+  psaBerthingDateTime: 2019-12-07T12:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-08T20:00:00.000Z,
+  jobItems: [{"quantity":3,"price":20,"uom":"Pallet","_id":"5dcfdf7de91d007c62d3f279","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-09-28T04:21:12.000Z,
+  psaQCEnd: 2019-09-28T05:53:10.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-269',
+  vesselIMOID: '9210440',
+  vesselName: 'CRYSTAL RAY',
+  vesselCallsign: 'C6RI2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-16T11:38:32.139Z,
+  psaBerthingDateTime: 2019-11-17T02:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-17T18:30:00.000Z,
+  jobItems: [{"quantity":2,"price":20,"uom":"Pallet","_id":"5dcfdff0e91d007c62d3f282","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-270',
+  vesselIMOID: '9764972',
+  vesselName: 'GUDALI EXPRESS',
+  vesselCallsign: '9V3939',
+  vesselLoadingLocation: 'ST Engineering Shipyard',
+  vesselLoadingDateTime: 2019-11-18T04:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5dd12387b7b54d6480e8e484","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5dd12387b7b54d6480e8e485","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-271',
+  vesselIMOID: '9443516',
+  vesselName: 'PACIFIC VALOUR',
+  vesselCallsign: 'JZBK',
+  vesselLoadingLocation: 'ST Engineering Shipyard',
+  vesselLoadingDateTime: 2019-11-18T04:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5dd12408b7b54d6480e8e490","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-272',
+  vesselIMOID: '9167318',
+  vesselName: 'SHORTHORN EXPRESS',
+  vesselCallsign: 'LXSJ',
+  vesselLoadingLocation: 'ST Engineering Shipyard',
+  vesselLoadingDateTime: 2019-11-18T04:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":7,"price":135,"uom":"Pallet","_id":"5dd1249cb7b54d6480e8e49a","job":null,"__v":0},{"quantity":3,"price":0,"uom":"Blue Bins","_id":"5dd1249cb7b54d6480e8e49b","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-273',
+  vesselIMOID: '9399052',
+  vesselName: 'MSC EMANUELA',
+  vesselCallsign: '3FKG',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-17T10:45:30.952Z,
+  psaBerthingDateTime: 2019-11-17T23:50:00.000Z,
+  psaUnberthingDateTime: 2019-11-19T12:00:00.000Z,
+  jobItems: [{"quantity":2,"price":0,"uom":"Pallet","_id":"5dd12521b7b54d6480e8e4a5","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-274',
+  vesselIMOID: '9349497',
+  vesselName: 'AL SAFAT',
+  vesselCallsign: 'D5MD9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-17T10:48:09.178Z,
+  psaBerthingDateTime: 2019-11-18T00:10:00.000Z,
+  psaUnberthingDateTime: 2019-11-19T10:30:00.000Z,
+  jobItems: [{"quantity":2,"price":0,"uom":"Pallet","_id":"5dd125eeb7b54d6480e8e4b2","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-18T08:00:00.000Z","_id":"5dd125eeb7b54d6480e8e4b0","pickupLocation":{"addressString":"RMS WAREHOUSE","_id":"5dd125eeb7b54d6480e8e4af","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-275',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-18T03:27:45.897Z,
+  psaBerthingDateTime: 2019-11-18T17:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-19T08:30:00.000Z,
+  jobItems: [{"quantity":4,"price":100,"uom":"Pallet","_id":"5dd21025066d600ea3d6fd17","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5dd21025066d600ea3d6fd18","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-276',
+  vesselIMOID: '9349552',
+  vesselName: 'AL HILAL',
+  vesselCallsign: 'D5IJ4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-18T03:30:07.726Z,
+  psaBerthingDateTime: 2019-11-19T01:25:00.000Z,
+  psaUnberthingDateTime: 2019-11-19T22:30:00.000Z,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5dd210a8066d600ea3d6fd22","job":null,"__v":0},{"quantity":3,"price":0,"uom":"Blue Bins","_id":"5dd210a8066d600ea3d6fd23","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-30T01:25:12.000Z,
+  psaQCEnd: 2019-11-30T08:14:12.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-277',
+  vesselIMOID: '9629158',
+  vesselName: 'GREEN HORIZON',
+  vesselCallsign: '3EVD8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-18T03:32:01.561Z,
+  psaBerthingDateTime: 2019-11-19T04:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-19T12:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd210f0066d600ea3d6fd2d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-09-30T14:29:22.000Z,
+  psaQCEnd: 2019-09-30T17:56:40.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-278',
+  vesselIMOID: '9505467',
+  vesselName: 'SHENG AN HAI',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-19T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":120,"uom":"Pallet","_id":"5dd22391066d600ea3d6fd37","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5dd22391066d600ea3d6fd38","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-279',
+  vesselIMOID: '9349497',
+  vesselName: 'AL SAFAT',
+  vesselCallsign: 'D5MD9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-19T04:54:27.091Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5dd375b2066d600ea3d6fd4f","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-280',
+  vesselIMOID: '9722223',
+  vesselName: 'SILVIO',
+  vesselCallsign: '9V2727',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-20T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":135,"uom":"Pallet","_id":"5dd38341066d600ea3d6fd59","job":null,"__v":0},{"quantity":3,"price":0,"uom":"Blue Bins","_id":"5dd38341066d600ea3d6fd5a","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-281',
+  vesselIMOID: '9113379',
+  vesselName: 'ATHENA',
+  vesselCallsign: 'HSB6130',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-11-19T09:45:25.927Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dd3a9ed066d600ea3d6fd66","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-19T09:00:21.511Z","_id":"5dd3a9ed066d600ea3d6fd64","pickupLocation":{"addressString":"Technics Communication & Electronics Pte Ltd\n\n18 Boon Lay Way,
+#03-105, Tradehub 21, Singapore 609966\n\nTel: (65) 6778 1155  Fax: (65) 6778 1245","_id":"5dd3a9ed066d600ea3d6fd63","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Swift Electronic Engineers'
+}
+{
+  jobId: 'OJ19-282',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'GAC SINGAPORE PTE LTD 70 ALPS AVENUE, #04-02, SINGAPORE, 498801',
+  vesselLoadingDateTime: 2019-11-21T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dd4daba066d600ea3d6fd7c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-283',
+  vesselIMOID: '9597549',
+  vesselName: 'APL MIAMI',
+  vesselCallsign: '9V9922',
+  vesselLoadingLocation: 'CEVA LOGISTICS - 80 ALPS AVENUE, #01-01/02/03, SINGAPORE 498792',
+  vesselLoadingDateTime: 2019-11-21T02:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5dd4e904066d600ea3d6fd87","job":null,"__v":0},{"quantity":4,"price":0,"uom":"Bundle","_id":"5dd5508b066d600ea3d6fd8f","job":"5dd4e904066
+d600ea3d6fd86","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-21T01:00:00.000Z","_id":"5dd5508b066d600ea3d6fd90","pickupLocation":{"addressString":"ANCHOR MARINE","_id":"5db3e07c7e20416ec681b417","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-284',
+  vesselIMOID: '9674529',
+  vesselName: 'CMA CGM ELBE',
+  vesselCallsign: '9HA3731',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-21T07:13:36.075Z,
+  psaBerthingDateTime: 2019-11-22T09:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-23T09:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd63974066d600ea3d6fd9d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-285',
+  vesselIMOID: '9331000',
+  vesselName: 'CMA CGM SWORDFISH',
+  vesselCallsign: '9HA4988',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-21T07:15:17.031Z,
+  psaBerthingDateTime: 2020-01-08T01:00:00.000Z,
+  psaUnberthingDateTime: 2020-01-08T19:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd63a0c066d600ea3d6fda7","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-286',
+  vesselIMOID: '9601314',
+  vesselName: 'APL DUBLIN',
+  vesselCallsign: '9V9404',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-21T07:17:44.959Z,
+  psaBerthingDateTime: 2019-12-23T23:35:00.000Z,
+  psaUnberthingDateTime: 2019-12-25T01:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd63aac066d600ea3d6fdb1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-287',
+  vesselIMOID: '9450600',
+  vesselName: 'CMA CGM FIGARO',
+  vesselCallsign: 'FNUS',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-21T07:20:45.493Z,
+  psaBerthingDateTime: 2019-12-07T01:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-08T01:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd63b09066d600ea3d6fdbb","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ship Supplies Direct'
+}
+{
+  jobId: 'OJ19-288',
+  vesselIMOID: '9450600',
+  vesselName: 'CMA CGM FIGARO',
+  vesselCallsign: 'FNUS',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-21T11:51:05.781Z,
+  psaBerthingDateTime: 2019-12-07T01:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-08T01:30:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5dd67b72066d600ea3d6fdc5","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-289',
+  vesselIMOID: '9194490',
+  vesselName: 'IBN AL ABBAR',
+  vesselCallsign: '3FFC9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-21T14:03:09.319Z,
+  psaBerthingDateTime: 2019-12-09T02:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-09T16:00:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5dd69a74066d600ea3d6fdd1","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-22T01:30:00.000Z","_id":"5dd69a74066d600ea3d6fdcf","pickupLocation":{"addressString":"20 TUAS AVE 6, SINGAPORE 639307","_id":"5dd69a74066d600ea3d6fdce"
+,"__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-290',
+  vesselIMOID: '9525900',
+  vesselName: 'MALIK AL ASHTAR',
+  vesselCallsign: '9HA2983',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-22T02:21:57.679Z,
+  psaBerthingDateTime: 2019-11-21T20:05:00.000Z,
+  psaUnberthingDateTime: 2019-11-22T20:10:00.000Z,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5dd7472f066d600ea3d6fddf","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-22T05:00:12.718Z","_id":"5dd7472f066d600ea3d6fddd","pickupLocation":{"addressString":"20 TUAS AVE 6 , SINGAPORE 639307","_id":"5dd7472f066d600ea3d6fddc
+","__v":0},"__v":0}],
+  psaQCStart: 2019-12-15T23:30:00.000Z,
+  psaQCEnd: 2019-12-16T05:51:08.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-291',
+  vesselIMOID: '9674529',
+  vesselName: 'CMA CGM ELBE',
+  vesselCallsign: '9HA3731',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-22T02:27:48.274Z,
+  psaBerthingDateTime: 2019-11-22T09:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-23T09:00:00.000Z,
+  jobItems: [{"quantity":10,"price":120,"uom":"Pallet","_id":"5dd7480e066d600ea3d6fdeb","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-22T08:00:15.344Z","_id":"5dd7480e066d600ea3d6fde9","pickupLocation":{"addressString":"20 TUAS AVE 6, SINGAPORE 639307","_id":"5dd69a74066d600ea3d6fdce"
+,"__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-292',
+  vesselIMOID: '9367607',
+  vesselName: 'CANOPUS LEADER',
+  vesselCallsign: '9VHC4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-22T02:35:49.754Z,
+  psaBerthingDateTime: 2019-11-22T00:30:00.000Z,
+  psaUnberthingDateTime: 2019-11-22T10:55:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd74a1b066d600ea3d6fdf6","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5dd74a1b066d600ea3d6fdf7","job":null,"__v":0
+}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-293',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: '80 ALPS Avenue #01-06 Singapore 498792',
+  vesselLoadingDateTime: 2019-11-22T06:00:57.356Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dd75c88802cbc38e076afb7","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-294',
+  vesselIMOID: '9760598',
+  vesselName: 'MOUNT CAMERON',
+  vesselCallsign: 'VRPP7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-22T05:38:41.774Z,
+  psaBerthingDateTime: 2019-11-22T20:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-24T10:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dd774bcadc8ed42b092bc9d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-22T10:00:23.252Z","_id":"5dd774bcadc8ed42b092bc9b","pickupLocation":{"addressString":"20 TUAS AVE 6, SINGAPORE 639307","_id":"5dd69a74066d600ea3d6fdce"
+,"__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-295',
+  vesselIMOID: '9600360',
+  vesselName: 'FUGRO VOYAGER',
+  vesselCallsign: '9V3888',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-11-23T22:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":135,"uom":"Pallet","_id":"5dd883b1d751a062a5484490","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-296',
+  vesselIMOID: '9600360',
+  vesselName: 'FUGRO VOYAGER',
+  vesselCallsign: '9V3888',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-11-23T22:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5dd88422d751a062a548449a","job":null,"__v":0},{"quantity":6,"price":0,"uom":"Blue Bins","_id":"5dd88422d751a062a548449b","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-297',
+  vesselIMOID: '9316191',
+  vesselName: 'MOONDANCE II',
+  vesselCallsign: '9HIF8',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-25T00:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":7,"price":135,"uom":"Pallet","_id":"5dd8a2b8d751a062a54844a5","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5dd8a2b8d751a062a54844a6","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-298',
+  vesselIMOID: '9280639',
+  vesselName: 'CMA CGM ROSSINI',
+  vesselCallsign: 'FZQU',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-23T03:10:03.026Z,
+  psaBerthingDateTime: 2019-11-24T21:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-25T19:50:00.000Z,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5dd8a408d751a062a54844b3","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-11-25T00:30:00.000Z","_id":"5dd8a408d751a062a54844b1","pickupLocation":{"addressString":"126 gul circle\nAMS OFFICE","_id":"5dd8a408d751a062a54844b0","__v
+":0},"__v":0}],
+  psaQCStart: 2019-12-07T09:43:51.000Z,
+  psaQCEnd: 2019-12-07T09:51:09.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-299',
+  vesselIMOID: '9235608',
+  vesselName: 'CONTSHIP HUB',
+  vesselCallsign: 'D5LK7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-23T05:08:31.041Z,
+  psaBerthingDateTime: 2019-12-08T08:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-08T20:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Bundle","_id":"5dd8bf5fd751a062a54844c0","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Carton","_id":"5dd8bf5fd751a062a54844c1","job":null,"__v":0}
+],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-09-01T16:56:12.000Z,
+  psaQCEnd: 2019-09-01T20:02:10.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-300',
+  vesselIMOID: '9530943',
+  vesselName: 'QUEST',
+  vesselCallsign: 'A8YX8',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-11-25T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":13,"price":135,"uom":"Pallet","_id":"5dda4c36d751a062a54844cf","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-301',
+  vesselIMOID: '9123166',
+  vesselName: 'MSC ALABAMA',
+  vesselCallsign: '3EDK7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-25T10:06:43.222Z,
+  psaBerthingDateTime: 2019-11-25T12:10:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T06:30:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5ddba846d751a062a54844de","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T01:29:36.000Z,
+  psaQCEnd: 2019-11-27T16:36:23.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-302',
+  vesselIMOID: '9237307',
+  vesselName: 'GALAXY LEADER',
+  vesselCallsign: 'C6S02',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-25T10:09:47.065Z,
+  psaBerthingDateTime: 2019-11-25T22:50:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T20:00:00.000Z,
+  jobItems: [{"quantity":4,"price":120,"uom":"Pallet","_id":"5ddba8acd751a062a54844e8","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5ddba8acd751a062a54844e9","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-26T20:03:04.000Z,
+  psaQCEnd: 2019-11-26T22:48:52.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-303',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-25T10:11:14.098Z,
+  psaBerthingDateTime: 2019-11-26T04:25:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T18:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5ddba906d751a062a54844f3","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-304',
+  vesselIMOID: '9122057',
+  vesselName: 'OEL HIND',
+  vesselCallsign: '3FSP3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-25T10:50:53.166Z,
+  psaBerthingDateTime: 2019-11-25T16:25:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T04:30:00.000Z,
+  jobItems: [],
+  jobOfflandItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5ddbb3e5d751a062a5484511","job":"5ddbb249d751a062a54844fe","__v":0}],
+  pickupDetails: [],
+  psaQCStart: 2019-10-18T17:34:00.000Z,
+  psaQCEnd: 2019-10-18T19:40:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-305',
+  vesselIMOID: '9445007',
+  vesselName: 'MARINE BIA',
+  vesselCallsign: '3EPW6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-25T10:53:11.621Z,
+  psaBerthingDateTime: 2019-11-26T12:20:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T11:30:00.000Z,
+  jobItems: [{"quantity":3,"price":75,"uom":"Pallet","_id":"5ddbb2cbd751a062a5484509","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Blue Bins","_id":"5ddbb2cbd751a062a548450a","job":null,"__v
+":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-306',
+  vesselIMOID: '9122057',
+  vesselName: 'OEL HIND',
+  vesselCallsign: '3FSP3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-26T03:18:54.113Z,
+  psaBerthingDateTime: 2019-11-25T16:25:00.000Z,
+  psaUnberthingDateTime: 2019-11-26T05:30:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5ddc99dfd751a062a5484523","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-18T17:34:00.000Z,
+  psaQCEnd: 2019-10-18T19:40:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-307',
+  vesselIMOID: '9381328',
+  vesselName: 'ROYAL JASPER',
+  vesselCallsign: 'V7PR5',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-11-26T06:21:10.173Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":5,"price":125,"uom":"Pallet","_id":"5ddcc4a2d751a062a54845a9","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5ddcc4a2d751a062a54845aa","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-308',
+  vesselIMOID: '9392779',
+  vesselName: 'ATLANTIC POLARIS',
+  vesselCallsign: 'VRFA2',
+  vesselLoadingLocation: 'DASHMESH / LOYANG ',
+  vesselLoadingDateTime: 2019-11-26T08:15:30.019Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5ddcdf6bd751a062a54845d6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-309',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-26T10:32:58.715Z,
+  psaBerthingDateTime: 2019-11-26T18:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T02:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5ddcffb6d751a062a548467b","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T00:36:42.000Z,
+  psaQCEnd: 2019-11-27T02:38:40.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-310',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-26T10:34:37.123Z,
+  psaBerthingDateTime: 2019-11-26T18:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T02:30:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5ddcfffed751a062a5484689","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T00:36:42.000Z,
+  psaQCEnd: 2019-11-27T02:38:40.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-311',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-26T10:44:51.451Z,
+  psaBerthingDateTime: 2019-11-26T18:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T05:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5ddd0262d751a062a5484693","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T00:36:42.000Z,
+  psaQCEnd: 2019-11-27T02:38:40.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-312',
+  vesselIMOID: '9148659',
+  vesselName: 'STAR OF LUCK',
+  vesselCallsign: '3FAH3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-26T10:48:36.808Z,
+  psaBerthingDateTime: 2019-12-08T18:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-09T09:00:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5ddd0328d751a062a548469d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T03:52:30.000Z,
+  psaQCEnd: 2019-11-27T07:01:12.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-313',
+  vesselIMOID: '9442122',
+  vesselName: 'LE MANS EXPRESS',
+  vesselCallsign: 'ZDJR9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-26T11:17:20.617Z,
+  psaBerthingDateTime: 2019-11-26T16:10:00.000Z,
+  psaUnberthingDateTime: 2019-11-27T03:00:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5ddd09f6d751a062a54846af","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-314',
+  vesselIMOID: '9308417',
+  vesselName: 'JEJU ISLAND',
+  vesselCallsign: 'V7JM2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-27T06:09:53.764Z,
+  psaBerthingDateTime: 2019-11-27T15:50:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T03:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dde13b0d751a062a548477c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-315',
+  vesselIMOID: '9160401',
+  vesselName: 'LADY OF LUCK',
+  vesselCallsign: '3EYW5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-27T06:12:10.960Z,
+  psaBerthingDateTime: 2019-11-27T20:15:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T17:00:00.000Z,
+  jobItems: [{"quantity":5,"price":125,"uom":"Pallet","_id":"5dde1404d751a062a5484786","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5dde1404d751a062a5484787","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-13T18:46:22.000Z,
+  psaQCEnd: 2019-12-13T19:40:04.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-316',
+  vesselIMOID: '9319105',
+  vesselName: 'YM INVENTIVE',
+  vesselCallsign: 'A8HX5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-27T06:13:37.991Z,
+  psaBerthingDateTime: 2019-11-27T09:45:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T03:00:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5dde143dd751a062a5484791","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-30T14:30:00.000Z,
+  psaQCEnd: 2019-10-31T03:44:49.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-317',
+  vesselIMOID: '9286255',
+  vesselName: 'CONTI ANNAPURNA',
+  vesselCallsign: 'D5SI3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-27T06:15:32.502Z,
+  psaBerthingDateTime: 2019-11-27T03:00:00.000Z,
+  psaUnberthingDateTime: 2019-11-28T11:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dde14bfd751a062a548479b","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-27T13:43:50.000Z,
+  psaQCEnd: 2019-11-27T23:44:24.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-318',
+  vesselIMOID: '9503354',
+  vesselName: 'PACIFIC PANDA',
+  vesselCallsign: '9V7609',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-11-27T06:17:47.708Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":120,"uom":"Pallet","_id":"5dde1902d751a062a54847a5","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5dde1902d751a062a54847a6","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-319',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Wilhelmsen Ships Service 186 Pandan Loop spore 128376',
+  vesselLoadingDateTime: 2019-11-28T03:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dde23a9d751a062a54847b0","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-320',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Wilhelmsen Ships Service 186 Pandan Loop spore 128376',
+  vesselLoadingDateTime: 2019-11-28T06:00:25.180Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5ddf3ea1d751a062a54848ba","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-321',
+  vesselIMOID: '9740653',
+  vesselName: 'MCC NANJING',
+  vesselCallsign: 'TCA4232',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-29T09:39:35.291Z,
+  psaBerthingDateTime: 2019-11-29T15:05:00.000Z,
+  psaUnberthingDateTime: 2019-11-29T23:00:00.000Z,
+  jobItems: [{"quantity":3,"price":75,"uom":"Pallet","_id":"5de0e787d751a062a54848dc","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-11-26T23:00:00.000Z,
+  psaQCEnd: 2019-11-27T00:09:00.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-322',
+  vesselIMOID: '9437256',
+  vesselName: 'WARNOW CARP',
+  vesselCallsign: '5BFN4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-30T04:50:06.337Z,
+  psaBerthingDateTime: 2019-11-30T15:40:00.000Z,
+  psaUnberthingDateTime: 2019-12-01T04:30:00.000Z,
+  jobItems: [{"quantity":4,"price":100,"uom":"Pallet","_id":"5de1f546d751a062a54848f0","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-323',
+  vesselIMOID: '9367578',
+  vesselName: 'LORD VISHNU',
+  vesselCallsign: '9VHF9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-30T11:19:00.036Z,
+  psaBerthingDateTime: 2019-12-01T08:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-02T06:00:00.000Z,
+  jobItems: [{"quantity":5,"price":125,"uom":"Pallet","_id":"5de2506ad751a062a54848fa","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5de2506ad751a062a54848fb","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-324',
+  vesselIMOID: '9318254',
+  vesselName: 'OEL FORTUNE',
+  vesselCallsign: '3FSC6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-11-30T11:20:56.737Z,
+  psaBerthingDateTime: 2019-12-01T01:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-01T21:55:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5de250d2d751a062a5484905","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-325',
+  vesselIMOID: '9579107',
+  vesselName: 'PACIFIC HARRIER',
+  vesselCallsign: 'YBBR2',
+  vesselLoadingLocation: 'Keppel Tuas Shipyard',
+  vesselLoadingDateTime: 2019-12-02T03:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5de3a1a6d751a062a5484923","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-326',
+  vesselIMOID: '9484998',
+  vesselName: 'YM MILESTONE',
+  vesselCallsign: 'A8ZC9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-01T11:24:01.144Z,
+  psaBerthingDateTime: 2019-12-01T17:45:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T05:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5de3a397d751a062a548492d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-23T12:42:02.000Z,
+  psaQCEnd: 2019-12-23T15:13:52.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-327',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-01T11:27:25.746Z,
+  psaBerthingDateTime: 2019-12-02T11:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T01:00:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5de3a3e3d751a062a5484937","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-328',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-01T11:29:50.559Z,
+  psaBerthingDateTime: 2019-12-03T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T10:00:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5de3a46ad751a062a5484941","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-28T18:30:00.000Z,
+  psaQCEnd: 2019-10-28T22:36:06.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-329',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: '6 TEMASEK BOULEVARD, #32-03 Suntec Tower Four, 038986',
+  vesselLoadingDateTime: 2019-12-02T06:00:25.338Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5de49df5d751a062a5484953","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-330',
+  vesselIMOID: '9337468',
+  vesselName: 'YM UPWARD',
+  vesselCallsign: 'A8OR6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-02T13:28:17.233Z,
+  psaBerthingDateTime: 2019-12-02T15:35:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T11:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5de51210d751a062a5484965","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-331',
+  vesselIMOID: '9629158',
+  vesselName: 'GREEN HORIZON',
+  vesselCallsign: '3EVD8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-02T13:31:04.304Z,
+  psaBerthingDateTime: 2019-12-09T14:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-10T04:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5de5125dd751a062a5484970","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-26T07:32:50.000Z,
+  psaQCEnd: 2019-12-26T07:37:28.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-332',
+  vesselIMOID: '9148647',
+  vesselName: 'SOUL OF LUCK',
+  vesselCallsign: '3FGX2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-02T13:32:22.464Z,
+  psaBerthingDateTime: 2019-12-02T22:55:00.000Z,
+  psaUnberthingDateTime: 2019-12-03T05:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5de5129ed751a062a548497a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-28T18:30:00.000Z,
+  psaQCEnd: 2019-10-28T22:36:06.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-333',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-02T13:33:29.428Z,
+  psaBerthingDateTime: 2019-12-09T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-09T14:00:00.000Z,
+  jobItems: [{"quantity":4,"price":100,"uom":"Pallet","_id":"5de512d1d751a062a5484984","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-334',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: '48 Toh Guan Rd E, Singapore 608586',
+  vesselLoadingDateTime: 2019-12-03T06:30:40.010Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5de5bf1fd751a062a54849a6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-335',
+  vesselIMOID: '9081019',
+  vesselName: 'OEL MALAYSIA',
+  vesselCallsign: '3FSZ6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-03T11:45:44.752Z,
+  psaBerthingDateTime: 2019-12-03T13:55:00.000Z,
+  psaUnberthingDateTime: 2019-12-04T12:30:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5de64b1bd751a062a54849c8","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-336',
+  vesselIMOID: '9733105',
+  vesselName: 'GENTING DREAM',
+  vesselCallsign: 'C6BO5',
+  vesselLoadingLocation: 'Marina Bay Cruise Centre',
+  vesselLoadingDateTime: 2019-12-03T11:46:49.536Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5de64ba5d751a062a54849d2","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-337',
+  vesselIMOID: '9160401',
+  vesselName: 'LADY OF LUCK',
+  vesselCallsign: '3EYW5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-03T11:49:16.908Z,
+  psaBerthingDateTime: 2019-12-04T08:50:00.000Z,
+  psaUnberthingDateTime: 2019-12-05T02:00:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5de64c23d751a062a54849dc","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-07T16:08:10.000Z,
+  psaQCEnd: 2019-12-08T03:25:56.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-338',
+  vesselIMOID: '9322865',
+  vesselName: 'OEL PROGRESS',
+  vesselCallsign: '9V3924',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-05T00:55:07.808Z,
+  psaBerthingDateTime: 2019-12-05T00:30:00.000Z,
+  psaUnberthingDateTime: 2019-12-05T13:30:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5de8561fd751a062a54849fb","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-18T17:34:00.000Z,
+  psaQCEnd: 2019-10-18T19:40:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-339',
+  vesselIMOID: '9525857',
+  vesselName: 'UMM SALAL',
+  vesselCallsign: '9HA2682',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-05T00:58:17.703Z,
+  psaBerthingDateTime: 2019-12-05T01:30:00.000Z,
+  psaUnberthingDateTime: 2019-12-06T02:30:00.000Z,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5de8566ad751a062a5484a05","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-05T03:29:38.000Z,
+  psaQCEnd: 2019-12-05T17:46:10.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-340',
+  vesselIMOID: '9825403',
+  vesselName: 'LONDON TRADER',
+  vesselCallsign: '9HA5082',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-05T06:52:58.054Z,
+  psaBerthingDateTime: 2019-12-06T04:10:00.000Z,
+  psaUnberthingDateTime: 2019-12-06T09:20:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5de8a978d751a062a5484a1f","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-07T02:41:36.000Z,
+  psaQCEnd: 2019-12-07T04:18:24.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-341',
+  vesselIMOID: '9579107',
+  vesselName: 'PACIFIC HARRIER',
+  vesselCallsign: 'YBBR2',
+  vesselLoadingLocation: 'Keppel Tuas Shipyard',
+  vesselLoadingDateTime: 2019-12-05T06:53:56.372Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":12,"price":135,"uom":"Pallet","_id":"5de8c521d751a062a5484a5a","job":"5de8a9fdd751a062a5484a28","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-342',
+  vesselIMOID: '9427079',
+  vesselName: 'BBC GREENLAND',
+  vesselCallsign: 'V2CN2',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-12-06T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5de8b28cd751a062a5484a36","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5de8b28cd751a062a5484a37","job":null,"__v":0
+}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-06T06:00:00.000Z","_id":"5de8cccfd751a062a5484a5c","pickupLocation":{"addressString":"126 gul circle\n\nams office","_id":"5de8b28cd751a062a5484a33","_
+_v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-343',
+  vesselIMOID: '9733105',
+  vesselName: 'GENTING DREAM',
+  vesselCallsign: 'C6BO5',
+  vesselLoadingLocation: 'Marina Bay Cruise Centre',
+  vesselLoadingDateTime: 2019-12-05T07:33:42.706Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5de8b316d751a062a5484a42","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-344',
+  vesselIMOID: '9408190',
+  vesselName: 'GLORYCROWN',
+  vesselCallsign: 'V7BH8',
+  vesselLoadingLocation: 'Keppel Tuas Shipyard',
+  vesselLoadingDateTime: 2019-12-06T04:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5de8c4c3d751a062a5484a53","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-345',
+  vesselIMOID: '9194505',
+  vesselName: 'TAICHUNG',
+  vesselCallsign: '3EHI',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-05T10:22:32.195Z,
+  psaBerthingDateTime: 2019-12-04T18:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-05T17:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5de8da90d751a062a5484a63","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-11T21:24:12.000Z,
+  psaQCEnd: 2019-12-11T21:26:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-346',
+  vesselIMOID: '9194490',
+  vesselName: 'IBN AL ABBAR',
+  vesselCallsign: '3FFC9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-06T11:41:04.692Z,
+  psaBerthingDateTime: 2019-12-06T15:05:00.000Z,
+  psaUnberthingDateTime: 2019-12-07T09:00:00.000Z,
+  jobItems: [{"quantity":4,"price":100,"uom":"Pallet","_id":"5dea3e94240b465a1c554a72","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5dea3e94240b465a1c554a73","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-347',
+  vesselIMOID: '9311799',
+  vesselName: 'AS CHRISTIANA',
+  vesselCallsign: 'V2DV4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-06T11:43:30.841Z,
+  psaBerthingDateTime: 2019-12-07T19:55:00.000Z,
+  psaUnberthingDateTime: 2019-12-08T05:00:00.000Z,
+  jobItems: [{"quantity":7,"price":120,"uom":"Pallet","_id":"5dea3f32240b465a1c554a7d","job":null,"__v":0},{"quantity":3,"price":0,"uom":"Blue Bins","_id":"5dea3f32240b465a1c554a7e","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-348',
+  vesselIMOID: '9702132',
+  vesselName: 'CMA CGM KERGUELEN',
+  vesselCallsign: '9HA5014',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-07T03:22:55.183Z,
+  psaBerthingDateTime: 2019-12-09T06:30:00.000Z,
+  psaUnberthingDateTime: 2019-12-09T19:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5deb1c11240b465a1c554a8a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-09T05:00:00.000Z","_id":"5deb1c11240b465a1c554a88","pickupLocation":{"addressString":"ANCHOR MARINE WAREHOUSE\n126 GUL CIRCLE","_id":"5deb1c11240b465a1
+c554a87","__v":0},"__v":0}],
+  psaQCStart: 2019-12-09T06:30:00.000Z,
+  psaQCEnd: 2019-12-09T16:51:54.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-349',
+  vesselIMOID: '9400813',
+  vesselName: 'CSCL KINGSTON',
+  vesselCallsign: '3EQS9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-08T08:46:26.946Z,
+  psaBerthingDateTime: 2019-12-08T16:20:00.000Z,
+  psaUnberthingDateTime: 2019-12-09T10:30:00.000Z,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5decb8a9240b465a1c554a95","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-09T01:00:00.000Z","_id":"5ded1977240b465a1c554aa1","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-10-25T18:28:24.000Z,
+  psaQCEnd: 2019-10-25T18:37:18.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-350',
+  vesselIMOID: '9148659',
+  vesselName: 'STAR OF LUCK',
+  vesselCallsign: '3FAH3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-09T01:25:33.997Z,
+  psaBerthingDateTime: 2019-12-09T15:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-10T00:30:00.000Z,
+  jobItems: [{"quantity":4,"price":100,"uom":"Pallet","_id":"5deda310240b465a1c554aa6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-09T14:00:03.434Z","_id":"5dee18f1b3573142e6d2736e","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-10-03T09:22:24.000Z,
+  psaQCEnd: 2019-10-03T09:39:54.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-351',
+  vesselIMOID: '9632002',
+  vesselName: 'APL SINGAPURA',
+  vesselCallsign: 'S6LT3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-09T09:38:38.881Z,
+  psaBerthingDateTime: 2019-12-14T18:25:00.000Z,
+  psaUnberthingDateTime: 2019-12-15T21:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dee1751b3573142e6d27367","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-15T02:40:36.000Z,
+  psaQCEnd: 2019-12-15T03:53:30.000Z,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-352',
+  vesselIMOID: '9082805',
+  vesselName: 'OEL DELTA',
+  vesselCallsign: '3EJM9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-09T13:21:55.060Z,
+  psaBerthingDateTime: 2019-12-10T21:50:00.000Z,
+  psaUnberthingDateTime: 2019-12-11T05:00:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5dee4af2b3573142e6d27373","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-10T04:00:35.958Z","_id":"5deef90eb3573142e6d2739a","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-353',
+  vesselIMOID: '9461893',
+  vesselName: 'APL QINGDAO',
+  vesselCallsign: '9V9376',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-09T13:24:11.793Z,
+  psaBerthingDateTime: 2019-12-10T01:20:00.000Z,
+  psaUnberthingDateTime: 2019-12-10T22:50:00.000Z,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5dee4b30b3573142e6d2737d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-10T04:00:44.854Z","_id":"5deef8e0b3573142e6d27397","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-354',
+  vesselIMOID: '9508469',
+  vesselName: 'BBC RUSHMORE',
+  vesselCallsign: 'V2GB3',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-12-10T09:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":10,"price":120,"uom":"Pallet","_id":"5dee4bc5b3573142e6d27387","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-355',
+  vesselIMOID: '9449857',
+  vesselName: 'WARNOW CHIEF',
+  vesselCallsign: '5BVL2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-10T12:57:46.816Z,
+  psaBerthingDateTime: 2019-12-18T05:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-18T23:00:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5def96d6b3573142e6d273b0","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-356',
+  vesselIMOID: '9160401',
+  vesselName: 'LADY OF LUCK',
+  vesselCallsign: '3EYW5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-10T13:00:20.670Z,
+  psaBerthingDateTime: 2019-12-17T23:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-19T19:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Bundle","_id":"5def9738b3573142e6d273ba","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-11T09:16:26.000Z,
+  psaQCEnd: 2019-12-11T12:33:04.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-357',
+  vesselIMOID: '9451343',
+  vesselName: 'DA TONG YUN',
+  vesselCallsign: 'VRJL3',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-12-11T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":7,"price":135,"uom":"Pallet","_id":"5def97ceb3573142e6d273c4","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-358',
+  vesselIMOID: '9579107',
+  vesselName: 'PACIFIC HARRIER',
+  vesselCallsign: 'YBBR2',
+  vesselLoadingLocation: 'Keppel Tuas Shipyard',
+  vesselLoadingDateTime: 2019-12-11T05:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":7,"price":135,"uom":"Pallet","_id":"5def9863b3573142e6d273ce","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-359',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'RMS',
+  vesselLoadingDateTime: 2019-12-11T08:00:15.991Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5df09d58b3573142e6d273fe","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-11T07:59:44.528Z","_id":"5df09d58b3573142e6d273fc","pickupLocation":{"addressString":"6 ATAP VALLEY","_id":"5df09d58b3573142e6d273fb","__v":0},"__v":0}
+],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-360',
+  vesselIMOID: '9708851',
+  vesselName: 'BARZAN',
+  vesselCallsign: '9HA3727',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-11T10:06:03.998Z,
+  psaBerthingDateTime: 2019-12-12T19:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-12T23:10:00.000Z,
+  jobItems: [{"quantity":9,"price":135,"uom":"Pallet","_id":"5df0c03ab3573142e6d27409","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-23T08:31:14.000Z,
+  psaQCEnd: 2019-12-23T09:01:28.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-361',
+  vesselIMOID: '9713959',
+  vesselName: 'ERIETTA',
+  vesselCallsign: 'D5HL5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-12T05:30:55.250Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":8,"price":135,"uom":"Pallet","_id":"5df18e90f9634868948fec52","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-362',
+  vesselIMOID: '9713959',
+  vesselName: 'ERIETTA',
+  vesselCallsign: 'D5HL5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-12T03:30:30.230Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":8,"price":135,"uom":"Pallet","_id":"5df18ee5f9634868948fec5c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-363',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'c/o The National Forwarder (S) Pte Ltd  5 Penjuru Lane  Singapore 809186',
+  vesselLoadingDateTime: 2019-12-12T04:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5df1c0d0f9634868948fec89","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-364',
+  vesselIMOID: '9722223',
+  vesselName: 'SILVIO',
+  vesselCallsign: '9V2727',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-12-12T15:59:29.314Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5df2013ff9634868948fec93","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-365',
+  vesselIMOID: '9367437',
+  vesselName: 'ROYAL DIAMOND 7',
+  vesselCallsign: 'V7PL9',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-12-12T15:59:19.080Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":6,"price":120,"uom":"Pallet","_id":"5df202a6f9634868948fec9d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-366',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'C/O Hull Marine Pte Ltd, No.7 Toh Guan Road East, #3-01, Alpha Industrial Building, Singapore 608599. ',
+  vesselLoadingDateTime: 2019-12-12T06:00:42.729Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5df23efa1f67ed12c0d830d3","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-367',
+  vesselIMOID: '9462017',
+  vesselName: 'APL SOUTHAMPTON',
+  vesselCallsign: '9V9399',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-12T13:27:55.049Z,
+  psaBerthingDateTime: 2019-12-17T00:50:00.000Z,
+  psaUnberthingDateTime: 2019-12-18T05:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5df241071f67ed12c0d830ed","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-17T20:30:16.000Z,
+  psaQCEnd: 2019-12-17T20:51:58.000Z,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-368',
+  vesselIMOID: '9302968',
+  vesselName: 'BUNGA KASTURI TIGA',
+  vesselCallsign: '9MGV7',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-12T23:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":120,"uom":"Pallet","_id":"5df261d41f67ed12c0d830f7","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5df261d41f67ed12c0d830f8","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-369',
+  vesselIMOID: '9299800',
+  vesselName: 'CMA CGM MEDEA',
+  vesselCallsign: 'FMFR',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-13T06:26:16.111Z,
+  psaBerthingDateTime: 2019-12-14T17:15:00.000Z,
+  psaUnberthingDateTime: 2019-12-15T09:10:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5df32f881f67ed12c0d83122","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-14T21:53:23.000Z,
+  psaQCEnd: 2019-12-15T07:09:27.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-370',
+  vesselIMOID: '9454450',
+  vesselName: 'CMA CGM JULES VERNE',
+  vesselCallsign: 'FIFW',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-13T06:28:37.711Z,
+  psaBerthingDateTime: 2019-12-15T12:10:00.000Z,
+  psaUnberthingDateTime: 2019-12-16T07:30:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5df35fb81f67ed12c0d83147","job":"5df32fcd1f67ed12c0d8312b","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-15T11:00:00.000Z,
+  psaQCEnd: 2019-12-15T19:59:04.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-371',
+  vesselIMOID: '9446881',
+  vesselName: 'ADRIA ACE',
+  vesselCallsign: 'C6XA8',
+  vesselLoadingLocation: '7 Airline Road #02-15 ACS',
+  vesselLoadingDateTime: 2019-12-13T08:30:43.360Z,
+  psaBerthingDateTime: 2019-12-25T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-25T14:00:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5df335e51f67ed12c0d83139","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-13T07:30:32.100Z","_id":"5df335e51f67ed12c0d83137","pickupLocation":{"addressString":"22 Pioneer Crescrent #2-06A","_id":"5df335e51f67ed12c0d83136","__
+v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Raks International'
+}
+{
+  jobId: 'OJ19-372',
+  vesselIMOID: '9445007',
+  vesselName: 'MARINE BIA',
+  vesselCallsign: '3EPW6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-13T15:57:29.139Z,
+  psaBerthingDateTime: 2019-12-14T02:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-14T20:30:00.000Z,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5df3b6eb1f67ed12c0d8314e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-373',
+  vesselIMOID: '9315381',
+  vesselName: 'AGAMEMNON',
+  vesselCallsign: 'D5CN6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-14T14:46:28.574Z,
+  psaBerthingDateTime: 2019-12-15T03:40:00.000Z,
+  psaUnberthingDateTime: 2019-12-16T09:00:00.000Z,
+  jobItems: [{"quantity":12,"price":135,"uom":"Pallet","_id":"5df4f6d51f67ed12c0d83164","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-15T07:00:34.274Z","_id":"5df5d4d41f67ed12c0d8317d","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-15T19:17:24.000Z,
+  psaQCEnd: 2019-12-15T19:56:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-374',
+  vesselIMOID: '9122057',
+  vesselName: 'OEL HIND',
+  vesselCallsign: '3FSP3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-14T14:51:10.385Z,
+  psaBerthingDateTime: 2019-12-15T05:15:00.000Z,
+  psaUnberthingDateTime: 2019-12-15T11:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5df4f72d1f67ed12c0d8316e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-15T05:00:08.686Z","_id":"5df5d47d1f67ed12c0d8317b","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-375',
+  vesselIMOID: '9720732',
+  vesselName: 'VOS PRINCESS',
+  vesselCallsign: 'ZDPJ5',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-12-15T06:00:16.464Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":135,"uom":"Pallet","_id":"5df5f11f1f67ed12c0d8318c","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-376',
+  vesselIMOID: '9400825',
+  vesselName: 'CSCL HOUSTON',
+  vesselCallsign: '3ETA4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-15T08:40:32.475Z,
+  psaBerthingDateTime: 2019-12-15T17:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-16T09:30:00.000Z,
+  jobItems: [{"quantity":7,"price":135,"uom":"Pallet","_id":"5df5f1e41f67ed12c0d83196","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-15T17:00:00.000Z,
+  psaQCEnd: 2019-12-15T17:06:24.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-377',
+  vesselIMOID: '9284594',
+  vesselName: 'BUNGA KELANA 8',
+  vesselCallsign: '9MGC5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-16T20:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":8,"price":135,"uom":"Pallet","_id":"5df5fc1a1f67ed12c0d831a0","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-378',
+  vesselIMOID: '9284594',
+  vesselName: 'BUNGA KELANA 8',
+  vesselCallsign: '9MGC5',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-16T20:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":8,"price":135,"uom":"Pallet","_id":"5df5fc8c1f67ed12c0d831aa","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-379',
+  vesselIMOID: '9629158',
+  vesselName: 'GREEN HORIZON',
+  vesselCallsign: '3EVD8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-15T12:45:22.670Z,
+  psaBerthingDateTime: 2019-12-23T14:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-24T08:00:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5df62b5d1f67ed12c0d831ba","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-25T02:07:30.000Z,
+  psaQCEnd: 2019-12-25T10:48:48.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-380',
+  vesselIMOID: '9496202',
+  vesselName: 'VITA HARMONY',
+  vesselCallsign: '3FME4',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-17T01:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5df6f2481f67ed12c0d831c6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-381',
+  vesselIMOID: '9634660',
+  vesselName: 'ORNELLA',
+  vesselCallsign: 'CQIW9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-16T03:16:15.428Z,
+  psaBerthingDateTime: 2019-12-25T10:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-26T02:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5df6f72f1f67ed12c0d831d1","job":null,"__v":0},{"quantity":4,"price":0,"uom":"Bundle","_id":"5df6f72f1f67ed12c0d831d2","job":null,"__v":0
+}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-10-26T00:00:00.000Z,
+  psaQCEnd: 2019-10-26T10:13:32.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-382',
+  vesselIMOID: '9504750',
+  vesselName: 'BBC EMERALD',
+  vesselCallsign: 'V2FZ2',
+  vesselLoadingLocation: 'Marina South Wharves',
+  vesselLoadingDateTime: 2019-12-16T14:30:04.563Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5df702a31f67ed12c0d831de","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-383',
+  vesselIMOID: '9503354',
+  vesselName: 'PACIFIC PANDA',
+  vesselCallsign: '9V7609',
+  vesselLoadingLocation: 'Loyang Offshore Supply Base',
+  vesselLoadingDateTime: 2019-12-17T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":9,"price":135,"uom":"Pallet","_id":"5df7534d1f67ed12c0d83202","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-384',
+  vesselIMOID: '9842750',
+  vesselName: 'ATI BHUM',
+  vesselCallsign: 'HSB6462',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-16T13:28:42.506Z,
+  psaBerthingDateTime: 2019-12-23T01:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-23T12:30:00.000Z,
+  jobItems: [{"quantity":3,"price":75,"uom":"Pallet","_id":"5df786ca34228c7406cce4b2","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-385',
+  vesselIMOID: '9265574',
+  vesselName: 'CMA CGM JAKARTA',
+  vesselCallsign: 'YCLV2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-16T13:29:56.672Z,
+  psaBerthingDateTime: 2019-12-23T00:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-23T12:00:00.000Z,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5df7872934228c7406cce4bc","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-386',
+  vesselIMOID: '9462017',
+  vesselName: 'APL SOUTHAMPTON',
+  vesselCallsign: '9V9399',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-16T13:31:29.308Z,
+  psaBerthingDateTime: 2019-12-17T00:50:00.000Z,
+  psaUnberthingDateTime: 2019-12-18T05:30:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5df7875534228c7406cce4c6","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-17T20:30:16.000Z,
+  psaQCEnd: 2019-12-17T20:51:58.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-387',
+  vesselIMOID: '9674543',
+  vesselName: 'CMA CGM RHONE',
+  vesselCallsign: '9HA3778',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-16T13:52:12.758Z,
+  psaBerthingDateTime: 2019-12-15T20:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-16T11:30:00.000Z,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5df78e5a34228c7406cce4d0","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-16T16:00:00.000Z,
+  psaQCEnd: 2019-12-17T01:23:48.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-388',
+  vesselIMOID: '9437256',
+  vesselName: 'WARNOW CARP',
+  vesselCallsign: '5BFN4',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-16T14:02:09.397Z,
+  psaBerthingDateTime: 2019-12-29T15:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-30T05:00:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5df78e8634228c7406cce4da","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-389',
+  vesselIMOID: '9813802',
+  vesselName: 'B TRADER',
+  vesselCallsign: '9HA4917',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-17T09:46:14.281Z,
+  psaBerthingDateTime: 2019-12-18T04:35:00.000Z,
+  psaUnberthingDateTime: 2019-12-18T11:00:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5df8a44d34228c7406cce509","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-14T00:20:30.000Z,
+  psaQCEnd: 2019-12-14T00:29:54.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-390',
+  vesselIMOID: '9196979',
+  vesselName: 'ITAL USODIMARE',
+  vesselCallsign: 'IBPO',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-18T07:45:56.564Z,
+  psaBerthingDateTime: 2019-12-18T17:10:00.000Z,
+  psaUnberthingDateTime: 2019-12-19T03:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dfa177734228c7406cce571","job":"5df9da2134228c7406cce54d","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-18T15:30:20.910Z","_id":"5e00bd0260036e02b15f8288","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-18T20:01:14.000Z,
+  psaQCEnd: 2019-12-18T20:52:48.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-391',
+  vesselIMOID: '9525895',
+  vesselName: 'TAYMA',
+  vesselCallsign: '9HA2989',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-18T07:44:07.212Z,
+  psaBerthingDateTime: 2019-12-18T16:05:00.000Z,
+  psaUnberthingDateTime: 2019-12-19T08:00:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5df9da5434228c7406cce55a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-18T15:30:55.771Z","_id":"5e00bd4960036e02b15f828a","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-20T07:57:20.000Z,
+  psaQCEnd: 2019-12-20T08:08:22.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-392',
+  vesselIMOID: '9456070',
+  vesselName: 'MEGACORE HONAMI',
+  vesselCallsign: 'V7TQ4',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-12-19T06:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":13,"price":135,"uom":"Pallet","_id":"5df9f54234228c7406cce567","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-19T04:00:00.000Z","_id":"5df9f54234228c7406cce565","pickupLocation":{"addressString":"ANCHOR MARINE WAREHOUSE\n126 GUL CIRCLE","_id":"5deb1c11240b465a1
+c554a87","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-393',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'CAMBIASO & RISSO SINGAPORE PTE LTD, 6 BATTERY ROAD, #34-01',
+  vesselLoadingDateTime: 2019-12-19T08:00:11.888Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":0,"uom":"Carton","_id":"5dfaff8734228c7406cce587","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-394',
+  vesselIMOID: '9706889',
+  vesselName: 'CMA CGM VASCO DE GAMA',
+  vesselCallsign: '9HA4993',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-19T05:14:38.123Z,
+  psaBerthingDateTime: 2019-12-22T19:40:00.000Z,
+  psaUnberthingDateTime: 2019-12-23T11:00:00.000Z,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5dfb07b434228c7406cce591","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-22T18:42:26.000Z,
+  psaQCEnd: 2019-12-23T05:27:30.000Z,
+  userCompany: 'Ditco BV'
+}
+{
+  jobId: 'OJ19-395',
+  vesselIMOID: '9525900',
+  vesselName: 'MALIK AL ASHTAR',
+  vesselCallsign: '9HA2983',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-19T11:49:31.082Z,
+  psaBerthingDateTime: 2019-12-20T06:45:00.000Z,
+  psaUnberthingDateTime: 2019-12-21T09:30:00.000Z,
+  jobItems: [{"quantity":8,"price":135,"uom":"Pallet","_id":"5dfb648d60036e02b15f8123","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Carton","_id":"5dfb648d60036e02b15f8124","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-20T04:30:00.000Z","_id":"5e00bdaf60036e02b15f828c","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-20T15:55:54.000Z,
+  psaQCEnd: 2019-12-21T02:00:30.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-396',
+  vesselIMOID: '8613322',
+  vesselName: 'MSC MANU',
+  vesselCallsign: '3FFQ2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-19T11:53:03.993Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5dfb65d960036e02b15f8131","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-20T04:30:00.000Z","_id":"5e00bdea60036e02b15f828e","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-397',
+  vesselIMOID: '9559884',
+  vesselName: 'BBC NORFOLK',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-12-20T06:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5dfb673b60036e02b15f813d","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Blue Bins","_id":"5dfc77ca60036e02b15f815d","job":"5dfb673b
+60036e02b15f813c","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-20T06:30:00.000Z","_id":"5e00be4560036e02b15f8290","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-398',
+  vesselIMOID: '9404209',
+  vesselName: 'NAVIOS TEMPO',
+  vesselCallsign: 'A8SN2',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-20T04:31:32.261Z,
+  psaBerthingDateTime: 2019-12-21T20:10:00.000Z,
+  psaUnberthingDateTime: 2019-12-22T11:00:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5dfc4eff60036e02b15f8154","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-21T22:59:48.000Z,
+  psaQCEnd: 2019-12-21T23:11:30.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-399',
+  vesselIMOID: '9511260',
+  vesselName: 'COUNTESS I',
+  vesselCallsign: 'V7CT3',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-12-22T15:59:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dfd87c560036e02b15f8176","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-400',
+  vesselIMOID: '9412347',
+  vesselName: 'LEONID LOZA',
+  vesselCallsign: 'A8TG9',
+  vesselLoadingLocation: 'Griffin Kinetic Pte Ltd 9B jalan Ampas Singapore 329517',
+  vesselLoadingDateTime: 2019-12-23T01:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dfda51360036e02b15f8183","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T01:30:00.000Z","_id":"5dfda5b860036e02b15f8197","pickupLocation":{"addressString":"126 Gul circle\n\nams office","_id":"5dfda51360036e02b15f8180","_
+_v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-401',
+  vesselIMOID: '9349588',
+  vesselName: 'SHABDIS',
+  vesselCallsign: 'EPBQ7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-21T04:52:45.857Z,
+  psaBerthingDateTime: 2019-12-23T10:45:00.000Z,
+  psaUnberthingDateTime: 2019-12-23T21:15:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5dfda59060036e02b15f818f","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T03:00:00.000Z","_id":"5e0062d760036e02b15f8236","pickupLocation":{"addressString":"126 gul circle\n\nams office","_id":"5de8b28cd751a062a5484a33","_
+_v":0},"__v":0}],
+  psaQCStart: 2019-12-23T15:24:40.000Z,
+  psaQCEnd: 2019-12-23T16:34:22.000Z,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-402',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'LIAUW BROTHER PTE LTD/160 KALLANG WAY.',
+  vesselLoadingDateTime: 2019-12-23T02:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dfda65d60036e02b15f819e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T02:30:00.000Z","_id":"5dfda68960036e02b15f81a6","pickupLocation":{"addressString":"126 gul circle","_id":"5dfda65c60036e02b15f819b","__v":0},"__v":0
+}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-403',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'MSP LENG LAUNCH ',
+  vesselLoadingDateTime: 2019-12-21T14:30:10.662Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5dfe087560036e02b15f81ad","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-21T12:30:59.304Z","_id":"5dfe087560036e02b15f81ab","pickupLocation":{"addressString":"605 SENJA ROAD #20-43 S670605","_id":"5dfe087560036e02b15f81aa","
+__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Swift Electronic Engineers'
+}
+{
+  jobId: 'OJ19-404',
+  vesselIMOID: '9194490',
+  vesselName: 'IBN AL ABBAR',
+  vesselCallsign: '3FFC9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-21T15:37:33.989Z,
+  psaBerthingDateTime: 2019-12-21T18:45:00.000Z,
+  psaUnberthingDateTime: 2019-12-22T13:25:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dfe3c8060036e02b15f81c2","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5dfe3c8060036e02b15f81c3","job":null,"__v":0
+}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-22T07:30:54.114Z","_id":"5dfed71460036e02b15f81e3","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-405',
+  vesselIMOID: '9081019',
+  vesselName: 'OEL MALAYSIA',
+  vesselCallsign: '3FSZ6',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-21T15:38:46.311Z,
+  psaBerthingDateTime: 2019-12-22T10:20:00.000Z,
+  psaUnberthingDateTime: 2019-12-22T22:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5dfe3cb460036e02b15f81cd","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5dfe3cb460036e02b15f81ce","job":null,"__v":0
+}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-22T07:30:05.352Z","_id":"5dfed6e760036e02b15f81e0","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-406',
+  vesselIMOID: '9705744',
+  vesselName: 'CHEM ALTAMIRA',
+  vesselCallsign: 'D5FU2',
+  vesselLoadingLocation: 'Penjuru Terminal',
+  vesselLoadingDateTime: 2019-12-23T06:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":4,"price":120,"uom":"Pallet","_id":"5dfee7e460036e02b15f81ea","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T04:30:00.000Z","_id":"5e00625960036e02b15f8233","pickupLocation":{"addressString":"126 Gul circle \nAms office","_id":"5dfee7e460036e02b15f81e7","__
+v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Anchor Marine supplies pte Ltd'
+}
+{
+  jobId: 'OJ19-407',
+  vesselIMOID: '9344978',
+  vesselName: 'ALP IPPON',
+  vesselCallsign: 'PCZD',
+  vesselLoadingLocation: 'Sembawang Shipyard',
+  vesselLoadingDateTime: 2019-12-23T07:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5dff06c660036e02b15f81f8","job":null,"__v":0},{"quantity":2,"price":0,"uom":"Blue Bins","_id":"5e0066cc60036e02b15f8238","job":"5dff06c6
+60036e02b15f81f7","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T05:00:00.000Z","_id":"5e0066cc60036e02b15f8239","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-408',
+  vesselIMOID: '9139505',
+  vesselName: 'MSC REBECCA',
+  vesselCallsign: 'HONW',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-23T12:37:35.271Z,
+  psaBerthingDateTime: 2019-12-31T10:00:00.000Z,
+  psaUnberthingDateTime: 2020-01-01T16:00:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5e00b5f060036e02b15f8251","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Carton","_id":"5e00b5f060036e02b15f8252","job":null,"__v":0
+}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T22:00:00.000Z","_id":"5e00bc5260036e02b15f8286","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-24T00:25:00.000Z,
+  psaQCEnd: 2019-12-24T01:47:30.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-409',
+  vesselIMOID: '9629158',
+  vesselName: 'GREEN HORIZON',
+  vesselCallsign: '3EVD8',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-23T12:41:32.434Z,
+  psaBerthingDateTime: 2019-12-30T14:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-31T04:00:00.000Z,
+  jobItems: [{"quantity":3,"price":90,"uom":"Pallet","_id":"5e00b66d60036e02b15f825e","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T22:00:00.000Z","_id":"5e00b9a960036e02b15f8282","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-02T12:33:46.000Z,
+  psaQCEnd: 2019-12-02T16:16:00.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-410',
+  vesselIMOID: '9601314',
+  vesselName: 'APL DUBLIN',
+  vesselCallsign: '9V9404',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-23T12:43:36.365Z,
+  psaBerthingDateTime: 2019-12-23T23:35:00.000Z,
+  psaUnberthingDateTime: 2019-12-25T01:30:00.000Z,
+  jobItems: [{"quantity":1,"price":55,"uom":"Pallet","_id":"5e00b6b560036e02b15f826a","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T22:00:00.000Z","_id":"5e00b96560036e02b15f8280","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-24T13:26:10.000Z,
+  psaQCEnd: 2019-12-24T16:56:20.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-411',
+  vesselIMOID: '9322865',
+  vesselName: 'OEL PROGRESS',
+  vesselCallsign: '9V3924',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-23T12:44:51.333Z,
+  psaBerthingDateTime: 2019-12-23T20:20:00.000Z,
+  psaUnberthingDateTime: 2019-12-24T07:05:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5e00b75960036e02b15f8276","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-23T22:00:00.000Z","_id":"5e00b75960036e02b15f8274","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-412',
+  vesselIMOID: '9208069',
+  vesselName: 'JAG LATEEF',
+  vesselCallsign: 'AUTA',
+  vesselLoadingLocation: 'THE GREATSHIP (SINGAPORE) PTE LTD, 15 HOE CHIANG ROAD, #06-03 TOWER 15 SINGAPORE 089316',
+  vesselLoadingDateTime: 2019-12-24T02:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5e00df9060036e02b15f8295","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Ships Ink'
+}
+{
+  jobId: 'OJ19-413',
+  vesselIMOID: '9124366',
+  vesselName: 'MSC IMMA',
+  vesselCallsign: '3ETY3',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-24T10:48:08.175Z,
+  psaBerthingDateTime: 2020-01-03T20:00:00.000Z,
+  psaUnberthingDateTime: 2020-01-04T20:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5e0397187891220ed0917436","job":"5e01ed757891220ed09173c5","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-414',
+  vesselIMOID: '9160401',
+  vesselName: 'LADY OF LUCK',
+  vesselCallsign: '3EYW5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-24T10:50:51.931Z,
+  psaBerthingDateTime: 2019-12-25T08:10:00.000Z,
+  psaUnberthingDateTime: 2019-12-26T09:30:00.000Z,
+  jobItems: [{"quantity":5,"price":125,"uom":"Pallet","_id":"5e01ede77891220ed09173d0","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Blue Bins","_id":"5e03973a7891220ed0917438","job":"5e01ede
+77891220ed09173cf","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-25T10:03:38.000Z,
+  psaQCEnd: 2019-12-25T11:42:08.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-415',
+  vesselIMOID: '9508469',
+  vesselName: 'BBC RUSHMORE',
+  vesselCallsign: 'V2GB3',
+  vesselLoadingLocation: 'Jurong Port Terminal',
+  vesselLoadingDateTime: 2019-12-25T03:00:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":2,"price":80,"uom":"Pallet","_id":"5e01ee777891220ed09173da","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-416',
+  vesselIMOID: '9319143',
+  vesselName: 'YM INCREMENT',
+  vesselCallsign: 'A8HW9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-25T15:23:05.026Z,
+  psaBerthingDateTime: 2019-12-27T00:30:00.000Z,
+  psaUnberthingDateTime: 2019-12-27T08:30:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5e037f3a7891220ed091740d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-26T15:30:00.000Z,
+  psaQCEnd: 2019-12-26T16:25:00.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-417',
+  vesselIMOID: '9606338',
+  vesselName: 'MSC AMSTERDAM',
+  vesselCallsign: '3EUJ',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-25T15:24:50.016Z,
+  psaBerthingDateTime: 2019-12-26T10:30:00.000Z,
+  psaUnberthingDateTime: 2019-12-27T16:30:00.000Z,
+  jobItems: [{"quantity":2,"price":60,"uom":"Pallet","_id":"5e037f687891220ed0917417","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [],
+  psaQCStart: 2019-12-26T22:46:31.000Z,
+  psaQCEnd: 2019-12-26T23:51:07.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-418',
+  vesselIMOID: '9315379',
+  vesselName: 'ARCHIMIDIS',
+  vesselCallsign: 'D5CN5',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-26T12:02:54.968Z,
+  psaBerthingDateTime: 2019-12-27T01:25:00.000Z,
+  psaUnberthingDateTime: 2019-12-27T17:30:00.000Z,
+  jobItems: [{"quantity":5,"price":125,"uom":"Pallet","_id":"5e04a20ef866030ec72e5f0c","job":null,"__v":0},{"quantity":1,"price":0,"uom":"Bundle","_id":"5e04a20ef866030ec72e5f0d","job":null,"__v":
+0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T06:00:00.000Z","_id":"5e04a925f866030ec72e5f5c","pickupLocation":{"addressString":"RMS 20 TUAS AVENUE 6","_id":"5e04a20ef866030ec72e5f09","__v":0},"
+__v":0}],
+  psaQCStart: 2019-12-20T05:30:00.000Z,
+  psaQCEnd: 2019-12-20T11:21:48.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-419',
+  vesselIMOID: '9525883',
+  vesselName: 'ALULA',
+  vesselCallsign: '9HA2952',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-26T12:06:57.312Z,
+  psaBerthingDateTime: 2019-12-27T07:40:00.000Z,
+  psaUnberthingDateTime: 2019-12-28T18:00:00.000Z,
+  jobItems: [{"quantity":6,"price":135,"uom":"Pallet","_id":"5e04a31ff866030ec72e5f1b","job":null,"__v":0},{"quantity":3,"price":0,"uom":"Blue Bins","_id":"5e04a31ff866030ec72e5f1c","job":null,"__
+v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T06:00:00.000Z","_id":"5e04a31ff866030ec72e5f19","pickupLocation":{"addressString":"RMS 20 TUAS AVENUE 6","_id":"5e04a20ef866030ec72e5f09","__v":0},"
+__v":0}],
+  psaQCStart: 2019-11-01T00:06:36.000Z,
+  psaQCEnd: 2019-11-01T00:11:36.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-420',
+  vesselIMOID: '9606338',
+  vesselName: 'MSC AMSTERDAM',
+  vesselCallsign: '3EUJ',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-26T12:10:14.904Z,
+  psaBerthingDateTime: 2019-12-26T13:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-27T16:30:00.000Z,
+  jobItems: [{"quantity":1,"price":40,"uom":"Pallet","_id":"5e04a36ef866030ec72e5f28","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T06:00:00.000Z","_id":"5e04a36ef866030ec72e5f26","pickupLocation":{"addressString":"RMS 20 TUAS AVENUE 6","_id":"5e04a20ef866030ec72e5f09","__v":0},"
+__v":0}],
+  psaQCStart: 2019-12-26T22:46:31.000Z,
+  psaQCEnd: 2019-12-26T23:51:07.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-421',
+  vesselIMOID: '9449819',
+  vesselName: 'CMA CGM CENDRILLON',
+  vesselCallsign: '9HA4971',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-26T12:11:38.381Z,
+  psaBerthingDateTime: 2019-12-27T22:55:00.000Z,
+  psaUnberthingDateTime: 2019-12-28T18:00:00.000Z,
+  jobItems: [{"quantity":7,"price":135,"uom":"Pallet","_id":"5e04a3c5f866030ec72e5f34","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-28T12:00:00.000Z","_id":"5e06ca10f866030ec72e5fba","pickupLocation":{"addressString":"RMS 20 TUAS AVENUE 6","_id":"5e04a20ef866030ec72e5f09","__v":0},"
+__v":0}],
+  psaQCStart: 2019-12-28T02:57:12.000Z,
+  psaQCEnd: 2019-12-28T04:40:54.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-422',
+  vesselIMOID: '9082805',
+  vesselName: 'OEL DELTA',
+  vesselCallsign: '3EJM9',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-26T12:12:59.121Z,
+  psaBerthingDateTime: 2019-12-27T11:30:00.000Z,
+  psaUnberthingDateTime: 2019-12-28T07:00:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5e04a40ff866030ec72e5f41","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T14:00:00.000Z","_id":"5e06c997f866030ec72e5fb6","pickupLocation":{"addressString":"RMS 20 TUAS AVE 6","_id":"5e04a40ff866030ec72e5f3e","__v":0},"__v
+":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-423',
+  vesselIMOID: '9143362',
+  vesselName: 'UNI ARISE',
+  vesselCallsign: '3FSV7',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-26T12:17:35.262Z,
+  psaBerthingDateTime: 2019-12-27T21:00:00.000Z,
+  psaUnberthingDateTime: 2019-12-28T06:30:00.000Z,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5e04a513f866030ec72e5f4d","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T14:00:00.000Z","_id":"5e05ae34f866030ec72e5f6f","pickupLocation":{"addressString":"RMS 20 TUAS AVENUE 6","_id":"5e04a20ef866030ec72e5f09","__v":0},"
+__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-424',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: 'JCS GREENTECH PTE LTD,2 WOODLANDS SECTOR 1,#01-22,WOODLANDS SPECTRUM 1,SINGAPORE 738068',
+  vesselLoadingDateTime: 2019-12-27T08:30:00.000Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":5,"price":100,"uom":"Pallet","_id":"5e05cd0ef866030ec72e5f84","job":"5e0591f0f866030ec72e5f64","__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T06:00:00.000Z","_id":"5e05cd0ef866030ec72e5f85","pickupLocation":{"addressString":"KEPPEL DISTRIPARK","_id":"5e0591f0f866030ec72e5f62","__v":0},"__v
+":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'Raks International'
+}
+{
+  jobId: 'OJ19-425',
+  vesselIMOID: '',
+  vesselName: '',
+  vesselCallsign: '',
+  vesselLoadingLocation: '20 Tuas Avenue 6, RMS',
+  vesselLoadingDateTime: 2019-12-27T09:30:44.938Z,
+  psaBerthingDateTime: null,
+  psaUnberthingDateTime: null,
+  jobItems: [{"quantity":1,"price":0,"uom":"Carton","_id":"5e05c15af866030ec72e5f76","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-27T08:40:58.708Z","_id":"5e05c15af866030ec72e5f74","pickupLocation":{"addressString":"Union Marine Management Services Pte Ltd\n3 HarbourFront Place,\n
+#12-01 HarbourFront Tower 2,\nSingapore 099254","_id":"5e05c15af866030ec72e5f73","__v":0},"__v":0}],
+  psaQCStart: null,
+  psaQCEnd: null,
+  userCompany: 'RMS Marine and Offshore'
+}
+{
+  jobId: 'OJ19-426',
+  vesselIMOID: '9525924',
+  vesselName: 'AL QIBLA',
+  vesselCallsign: '9HA3958',
+  vesselLoadingLocation: 'PSA',
+  vesselLoadingDateTime: 2019-12-27T12:19:45.559Z,
+  psaBerthingDateTime: 2019-12-28T04:15:00.000Z,
+  psaUnberthingDateTime: 2019-12-29T22:15:00.000Z,
+  jobItems: [{"quantity":9,"price":135,"uom":"Pallet","_id":"5e05f7acf866030ec72e5fa0","job":null,"__v":0}],
+  jobOfflandItems: [],
+  pickupDetails: [{"pickupDateTime":"2019-12-28T12:00:00.000Z","_id":"5e06c9dcf866030ec72e5fb8","pickupLocation":{"addressString":"RMS","_id":"5decdd4e240b465a1c554a9e","__v":0},"__v":0}],
+  psaQCStart: 2019-12-28T06:59:48.000Z,
+  psaQCEnd: 2019-12-29T10:39:42.000Z,
+  userCompany: 'RMS Marine and Offshore'
+}\
