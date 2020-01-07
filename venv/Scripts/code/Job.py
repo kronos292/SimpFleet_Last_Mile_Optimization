@@ -62,10 +62,18 @@ class Job:
     def check_pickup_time(self):
         if not self.pickup_details:
             return "No pick-up required"
-        else:
-            time = self.pickup_time + datetime.timedelta(hours = 2.5)
+        elif len(self.pickup_details) == 1:
+            time = self.pickup_time + datetime.timedelta(hours = 1.5)
             self.delivery_time = self.find_delivery_time()
-            if self.delivery_time - time < datetime.timedelta(hours = 2):
+            if self.delivery_time - time < datetime.timedelta(hours = 4): # if time done pickup is less than 4 hours from delivery time
                 return self.pickup_time.strftime("%m/%d/%Y, %H:%M:%S") + " at " + self.pickup_location
             else:
-                return "Suggest new pick-up time"
+                return "Pick-up time is too early. Suggest new pick-up time or go back to warehouse after pick-up"
+        else: # multiple pick-ups
+            pick_ups = []
+            for location in self.pickup_details:
+                t = datetime.datetime.strptime(location['pickupDateTime'],"%Y-%m-%dT%H:%M:%S.%fz")
+                pick_ups.append(t.strftime("%m/%d/%Y, %H:%M:%S") + " at " + location["pickupLocation"]["addressString"])
+            return pick_ups
+
+
